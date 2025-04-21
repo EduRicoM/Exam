@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Práctica de Exámenes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <h1>Práctica de Exámenes OpoFiR</h1>
+    <div id="menu">
+      <button onclick="startModo('examen')">Modo Examen</button>
+      <button onclick="startModo('aleatorio')">Modo Aleatorio</button>
+      <button onclick="startModo('rapido')">Modo Examen Rápido</button>
+    </div>
+
+    <div id="config" style="display:none">
+      <h2 id="modoTitulo"></h2>
+      <div id="simulacroSelectContainer" style="display:none">
+        <label for="simulacroSelect">Selecciona un simulacro:</label>
+        <select id="simulacroSelect"></select>
+      </div>
+      <button onclick="comenzar()">Comenzar</button>
+    </div>
+
+    <div id="test" style="display:none">
+      <div id="temporizador"></div>
+      <div id="preguntaContainer"></div>
+      <div id="controles">
+        <button onclick="anteriorPregunta()">Anterior</button>
+        <button onclick="siguientePregunta()">Siguiente</button>
+        <button onclick="entregar()">Entregar</button>
+      </div>
+    </div>
+
+    <div id="resultado" style="display:none">
+      <h2>Resultados</h2>
+      <p id="resumen"></p>
+      <div id="repaso"></div>
+      <button onclick="location.reload()">Volver al inicio</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
