@@ -1,0 +1,2522 @@
+[
+  {
+    "número": "1",
+    "pregunta": "Un grupo funcional que no absorbe por sí solo en la región UV-Vis, pero que puede aumentar la longitud de onda de máxima absorción de los grupos cromóforos, provoca un efecto",
+    "opciones": [
+      "1. Hipercrómico.",
+      "2. Hipocrómico.",
+      "3. Batocrómico.",
+      "4. Hipsocrómico."
+    ],
+    "respuesta": "3",
+    "comentario": "tanto hipercrómico como hipocrómico hacen referencia a efectos sobre la intensidad de la absorción, aumentándola o disminuyéndola respectivamente. El efecto hipsocrómico disminuye la longitud de onda de máxima absorción hacia el azul."
+  },
+  {
+    "número": "2",
+    "pregunta": "Para la reacción 3A + 2B + C → D → E, la ley de velocidad que representa su evolución es la siguiente: v = k[A]2[B]3[C]5. Con estos datos podemos afirmar que",
+    "opciones": [
+      "1. Se trata de una reacción concertada que transcurre en dos etapas.",
+      "2. La cinética de la reacción depende en mayor medida de la cantidad de componente C que del resto de componentes.",
+      "3. La cinética de la reacción depende en mayor medida de la cantidad de componente A que del resto de componentes.",
+      "4. Si triplicamos la cantidad del reactivo B, la velocidad de reacción se multiplicaría por 9."
+    ],
+    "respuesta": "2",
+    "comentario": "la respuesta 1 es falsa, pues una reacción no puede ser concertada y compleja a la vez (concertada = elemental). En cuanto a la 4, si hacemos el cálculo la velocidad se multiplicaría por 27. Entre las respuestas 2 y 3 podríamos dudar, ya que el coeficiente estequiométrico que acompaña al A es más alto. Cuando estéis en esta tesitura, lo que va a misa son los datos de la ley de velocidad, que son los que se han extraído experimentalmente y por tanto los que reflejan la realidad de la reacción. Como vemos en la ecuación, duplicando C la velocidad aumenta 32 veces."
+  },
+  {
+    "número": "3",
+    "pregunta": "No es cierto sobre la REA (Relación estructura Actividad) de las sulfamidas",
+    "opciones": [
+      "1. El benceno no debe tener sustituyentes.",
+      "2. El grupo sulfonamida puede sustituirse por bioisósteros.",
+      "3. Si el grupo amino se encuentra sustituido estamos hablando de un profármaco.",
+      "4. La sustitución de la sulfonamida por un grupo cetona no supone ningún cambio en la actividad antibacteriana."
+    ],
+    "respuesta": "4",
+    "comentario": "si bien el grupo sulfonamida no es indispensable para la acción de las sulfamidas y puede sustituirse por otros grupos, este cambio genera una menor actividad de las mismas, es por ello que la 2 es correcta y la 4 falsa. Con respecto a la 3, el N debe estar libre para la acción in vivo del principio activo"
+  },
+  {
+    "número": "4",
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "1. Los métodos radioquímicos se basan en la medición de la actividad de una fuente radiactiva.",
+      "2. La nefelometría se basa en el estudio de la refracción de la luz.",
+      "3. La electroforesis es una basa en la separación de analitos bajo el seno de radiación UV.",
+      "4. La picnometría es una técnica que estudia la masa de un analito."
+    ],
+    "respuesta": "1",
+    "comentario": "la nefelometría se basa en el estudio de la dispersión de la luz. La electroforesis se basa en la separación de analito en el seno de un campo eléctrico. La picnometría es una técnica que estudia la densidad de un analito."
+  },
+  {
+    "número": "5",
+    "pregunta": "¿Cuál de las siguientes respuestas es FALSA con respecto a la intoxicación por sílice?",
+    "opciones": [
+      "1. La principal vía de intoxicación es la inhalatoria.",
+      "2. El principal órgano diana de la intoxicación crónica por sílice es el riñón.",
+      "3. La sintomatología de esta enfermedad cursa con tos, dificultad respiratoria y pérdida de peso",
+      "4. No existe un tratamiento específico para tratar la silicosis."
+    ],
+    "respuesta": "2",
+    "comentario": "las partículas de sílice se acumulan en los pulmones y pueden provocar fibrosis pulmonar. En casos graves, es necesario el trasplante de pulmón."
+  },
+  {
+    "número": "6",
+    "pregunta": "¿Qué marcadores de superficie presenta una célula Th-1?",
+    "opciones": [
+      "1. CD3+, CD4+, CXCR3+.",
+      "2. CD3+, CD8+, CXCR3+.",
+      "3. CD3+, CD4+, CD56+.",
+      "4. CD3+, CD8+, CD56+."
+    ],
+    "respuesta": "1",
+    "comentario": "las células T helper son linfocitos T, por lo que serán CD3+, las helper son CD4+ y CXCR3+ es un marcador específico de esta subpoblación Th-1."
+  },
+  {
+    "número": "7",
+    "pregunta": "En las valoraciones ácido/base cuando valoramos ácido débil con una base fuerte el pH que se obtiene en el punto de equivalencia de la valoración es",
+    "opciones": [
+      "1. pH = 7.",
+      "2. pH = 3.",
+      "3. pH < 7.",
+      "4. pH > 7."
+    ],
+    "respuesta": "4",
+    "comentario": "cuando se valora un ácido débil con una base fuerte siempre se obtiene un pH mayor a 7 en el punto de equivalencia. En el caso de una valoración de una base débil con un ácido fuerte se obtiene un pH menor que 7."
+  },
+  {
+    "número": "8",
+    "pregunta": "Es cierto sobre la síntesis de sulfamidas",
+    "opciones": [
+      "1. Parte de acetanilida y sufre un proceso de acoplamiento por clorosulfonación de una amina heterocíclica.",
+      "2. Parte de acetanilida y sufre un proceso de acoplamiento por clorosulfonación de una amida heterocíclica.",
+      "3. Parte de benzamida y sufre un proceso de acoplamiento por clorosulfonación de una amina heterocíclica.",
+      "4. Se obtienen mediante síntesis de Clauss."
+    ],
+    "respuesta": "1",
+    "comentario": "las reacciones de síntesis, aunque son complejas, han sido preguntadas y son susceptibles de volver a serlo. Tener claro los productos de los que se parte, a los que se llega y si tiene alguna características especial como en este caso la clorosulfonación o un nombre concreto."
+  },
+  {
+    "número": "9",
+    "pregunta": "Las principales diferencias entre el metotrexato (MTX) y el ácido fólico son",
+    "opciones": [
+      "1. Solamente la sustitución de -OH en C4 por -NH2.",
+      "2. El MTX tiene estructura de 2,4 diaminopirimidina.",
+      "3. La sustitución de -OH en C4 por -NH2 y la metilación de un N de cadena.",
+      "4. La sustitución de -OH en C4 por -NH2 y la metilación de dos N de cadena."
+    ],
+    "respuesta": "4",
+    "comentario": "la dos es falsa, son trimetoprim y cicloguanilo. La respuesta 3 no sería correcta porque falta una metilación en un N de la cadena y la 1 se refiere a la aminopterina, la cual es como el MTX pero sin la metilación de los N de cadena."
+  },
+  {
+    "número": "10",
+    "pregunta": "Es una combinación de inhibidor de la dihidropteroato sintetasa y dihidrofólico reductasa",
+    "opciones": [
+      "1. Cotrimoxazol.",
+      "2. Clotrimazol.",
+      "3. Sulfadoxima.",
+      "4. Ametopterina."
+    ],
+    "respuesta": "1",
+    "comentario": "la opción dos se usa principalmente como antifúngico en infecciones vaginales (aunque no exclusivamente), sulfadoxima es una sulfamida y ametopterina es otro nombre con el que referirse al metotrexato."
+  },
+  {
+    "número": "11",
+    "pregunta": "La propiedad por la que análogos de nucleótidos como aciclovir sean tan específicos es principalmente",
+    "opciones": [
+      "1. La afinidad mayor que se genera por estos fármacos hacia el centro activo de la polimerasa viral.",
+      "2. La capacidad que tiene para ser transportado por transportadores específicos hacia el interior celular donde actúa con gran rapidez durante todas las fases del ciclo vírico.",
+      "3. La capacidad del virus de realizar la primera fosforilación debido a la existencia de una timidina quinasa propia.",
+      "4. La capacidad que tiene para finalizar la cadena de DNA viral en formación en la fase de latencia del virus."
+    ],
+    "respuesta": "3",
+    "comentario": "la respuesta 1 es falsa pues este no es su mecanismo de acción. Además, la 2 tampoco es cierta, pues estos fármacos actúan sobre todo en la fase de replicación activa del virus cuando hay replicación del DNA. La 4, pese a que es cierto que tiene capacidad de finalización de cadena, es falsa debido a que esta no se forma cuando el virus está latente, si no en replicación activa."
+  },
+  {
+    "número": "12",
+    "pregunta": "El metabolismo de carbamazepina",
+    "opciones": [
+      "1. Puede generar epóxidos potencialmente tóxicos.",
+      "2. Ocurre el proceso de sulfatación.",
+      "3. Tiene lugar mayoritariamente en el riñón.",
+      "4. No posee circulación enterohepática."
+    ],
+    "respuesta": "1",
+    "comentario": "importante saber que la carbamazepina, debido a un doble enlace en el anillo central de 7 átomos (6 C y un heteroátomo de N), puede darse la formación de un epóxido que es altamente reactivo con grupos nucleófilos celulares. El metabolismo es hepático, no se sulfata y tiene metabolismo enterohepático."
+  },
+  {
+    "número": "13",
+    "pregunta": "La tinción negativa, ¿qué sustancia utiliza para la visualización de la cápsula?",
+    "opciones": [
+      "1. Tinta china.",
+      "2. Blanco de calcoflúor.",
+      "3. Fucsina básica fenicada.",
+      "4. Verde de malaquita."
+    ],
+    "respuesta": "1",
+    "comentario": "la tinción negativa es la empleada para la detección de la cápsula de Criptococcus neoformans y utiliza tinta china o nigrosina."
+  },
+  {
+    "número": "14",
+    "pregunta": "Las micobacterias, ¿cómo se tiñen con la tinción de Gram?",
+    "opciones": [
+      "1. No se tiñen, es por eso por lo que se las conoce como bacterias Gram neutro o Gram fantasma.",
+      "2. Gram negativas.",
+      "3. Gram positivas.",
+      "4. Ninguna es correcta."
+    ],
+    "respuesta": "1",
+    "comentario": "las micobacterias se tiñen muy mal con la tinción de Gram, irregularmente las encontrareis como que se pueden teñir muy débilmente Gram positivas, pero la correcta de verdad, es la respuesta 1."
+  },
+  {
+    "número": "15",
+    "pregunta": "¿Cuál de las siguientes NO se considera una desventaja de los excipientes hidrosolubles de glicero-gelatina en la elaboración de supositorios?",
+    "opciones": [
+      "1. Liberan el principio activo por disolución.",
+      "2. Tienden a desecarse.",
+      "3. Tienen mala conservación frente a microorganismos.",
+      "4. Requieren lubricar moldes con parafina."
+    ],
+    "respuesta": "1",
+    "comentario": "todas ellas se consideran desventajas de los excipientes de glicero-gelatina, excepto la 1. El principio activo no se libera por disolución, sino que funde a la temperatura corporal y entonces se libera."
+  },
+  {
+    "número": "16",
+    "pregunta": "La ley de Beer puede aplicarse a",
+    "opciones": [
+      "1. Soluciones concentradas.",
+      "2. Soluciones con más de una especie absorbente.",
+      "3. Sustancias que forman complejos.",
+      "4. Haz de luz policromático."
+    ],
+    "respuesta": "2",
+    "comentario": "la ley de Beer solo describe bien el comportamiento en soluciones diluidas (<0.01M); Las distintas absortividades molares de las especies absorbentes a las distintas longitudes de onda de un haz policromático siempre conducen a errores negativos en la absorbancia; Si la sustancia problema forma complejos, el equilibrio se desplaza, la concentración de dicha sustancia se modifica, y por lo tanto también la absorbancia. La ley de Beer puede aplicarse también a soluciones que contengan más de una clase de especie absorbente. En estos casos la absorbancia total a una determinada longitud de onda será la suma de las absorbancias de sus componentes."
+  },
+  {
+    "número": "17",
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el virus SARS-CoV2 es INCORRECTA?",
+    "opciones": [
+      "1. Es un virus RNA monocatenario de polaridad positiva.",
+      "2. Interacciona con su receptor de entrada a la célula (ACE2) a través del dominio de unión de la proteína Spike.",
+      "3. Pertenece al grupo IV de la clasificación de Baltimore.",
+      "4. Solo se transmite desde el inicio de los síntomas."
+    ],
+    "respuesta": "4",
+    "comentario": "el virus SARS-CoV2 es un virus RNA monocatenario de polaridad positiva, envuelto, y de la familia Coronaviridae. El principal receptor de entrada a la célula huésped del SARS-CoV-2 es el mismo que el del SARS-CoV, la enzima convertidora de angiotensina (ECA2) e interacciona con él a través de su proteína Spike. Pertenece al grupo IV de la clasificación de Baltimore, dado que este agrupa a los virus que son RNA monocatenario de polaridad positiva. La incorrecta es la 4, dado que el SARS-CoV2 es capaz de transmitirse desde 2-3 días antes del desarrollo de síntomas."
+  },
+  {
+    "número": "18",
+    "pregunta": "¿Cuál de los siguientes mecanismos de acción es el que realiza remdesivir?",
+    "opciones": [
+      "1. Actúa como análogo del trifosfato de adenosina (ATP) y compite con el sustrato ATP natural para la incorporación en las cadenas de ARN nacientes por la ARN polimerasa dependiente de ARN del SARS-CoV-2.",
+      "2. Inhibe el efecto de una citoquina, la interleucina-6 (IL-6), involucrada en procesos inflamatorios y del sistema inmune.",
+      "3. Inhibe la acción biológica de la IL-1 bloqueando competitivamente la unión de la IL-1 con su receptor.",
+      "4. Inhibe la síntesis de prostaglandinas y leucotrienos, sustancias que median en los procesos vasculares y celulares de la inflamación, así como en la respuesta inmunológica."
+    ],
+    "respuesta": "1",
+    "comentario": "la primera respuesta es el mecanismo de acción del remdesivir utilizado como tratamiento específico frente al SARS-CoV2. La segunda respuesta es del tocilizumab, la tercera del anakinra y la cuarta de la dexametasona."
+  },
+  {
+    "número": "19",
+    "pregunta": "¿Cuál de las siguientes opciones es un síntoma característico de intoxicación grave por salicilatos?",
+    "opciones": [
+      "1. Hiperglucemia.",
+      "2. Hipertermia.",
+      "3. Hipotensión.",
+      "4. Hipoventilación."
+    ],
+    "respuesta": "2",
+    "comentario": "tras un periodo de latencia, comienza la fase sintomática de la intoxicación por salicilatos. Dentro de la sintomatología, podemos destacar síntomas digestivos (como náuseas y vómitos), hipertermia, aumento de la ventilación y de la sudoración, alteraciones hidroelectrolíticas, pudiendo aparecer alteraciones neurosensoriales. De las opciones propuestas, la correcta sería la hipertermia, que es un aumento anormal de la temperatura corporal. Esto puede ser un signo de intoxicación grave y requerir atención médica inmediata. Los salicilatos pueden afectar el centro de regulación de la temperatura en el cerebro, lo que lleva a un aumento en la temperatura corporal."
+  },
+  {
+    "número": "20",
+    "pregunta": "En cromatografía de intercambio iónico, el grupo funcional amonio cuaternario funciona como",
+    "opciones": [
+      "1. Intercambiador catiónico fuerte en resinas de intercambio iónico.",
+      "2. Intercambiador aniónico débil en resinas de intercambio iónico.",
+      "3. Intercambiador catiónico débil en resinas de intercambio iónico.",
+      "4. Intercambiador aniónico fuerte en resinas de intercambio iónico."
+    ],
+    "respuesta": "4",
+    "comentario": "en cromatografía de intercambio iónico, el grupo funcional amonio cuaternario actúa como grupo fuerte en una resina cambiadora aniónica intercambiando los iones de la disolución con los iones del mismo signo que están en la superficie de un sólido de elevada masa molecular y esencialmente insoluble."
+  },
+  {
+    "número": "21",
+    "pregunta": "¿Cuál de los siguientes hongos tiene colesterol en su membrana?",
+    "opciones": [
+      "1. Aspergillus terreus.",
+      "2. Candida albicans.",
+      "3. Criptococcus neoformans.",
+      "4. Pneumocystis jirovecii."
+    ],
+    "respuesta": "4",
+    "comentario": "la carencia de ergosterol en la membrana es una característica fenotípica de interés en Pneumocystis que lo diferencia del resto de los hongos. Este lípido es el principal esterol en la membrana de los hongos. En cambio, Pneumocystis presenta colesterol, encontrado fundamentalmente en las membranas de los mamíferos. La ausencia de ergosterol explica su resistencia natural a la anfotericina B, antifúngico cuyo mecanismo de acción está íntimamente relacionado con dicho lípido."
+  },
+  {
+    "número": "22",
+    "pregunta": "¿En cuál de los siguientes hongos se puede utilizar la detección rápida del antígeno capsular mediante inmunocromatografía como diagnóstico en LCR?",
+    "opciones": [
+      "1. Criptococcus neoformans.",
+      "2. Pneumocystis jirovecii.",
+      "3. Histoplasma capsulatum.",
+      "4. Coccidioides immitis."
+    ],
+    "respuesta": "1",
+    "comentario": "el único hongo con cápsula es Criptococcus neoformans, y su diagnóstico definitivo va a ser microbiológico. Se pueden realizar varias técnicas para su diagnóstico: tinciones (Tinción negativa o tinción de tinta china, que tiñe toda la preparación excepto la cápsula), cultivo e identificación, detección del antígeno capsular y diagnóstico molecular."
+  },
+  {
+    "número": "23",
+    "pregunta": "¿En cuál de los siguientes hongos no tiene utilidad el biomarcador 1-3-beta-D-glucano para el diagnóstico de infecciones fúngicas invasivas?",
+    "opciones": [
+      "1. Pneumocystis jirovecii.",
+      "2. Rhizopus oryzae.",
+      "3. Aspergillus terreus.",
+      "4. Candida tropicalis."
+    ],
+    "respuesta": "2",
+    "comentario": "recordemos que el 1, 3-b-d-glucano es un componente de la pared de casi todas las especies de hongos, con excepción de los Zigomicetos (mucorales) y en escasa cuantía del Cryptococcus spp. De las opciones dadas, Rhizopus es perteneciente a los mucorales."
+  },
+  {
+    "número": "24",
+    "pregunta": "¿Cuál de las siguientes afirmaciones es incorrecta con respecto a los Staphylococcus coagulasa negativos?",
+    "opciones": [
+      "1. Forman parte de la microbiota habitual de la piel.",
+      "2. Forman biofilms.",
+      "3. Colonizan y causan infecciones relacionadas con dispositivos.",
+      "4. Su aislamiento en los cultivos siempre es significativo de infección y deben tratarse."
+    ],
+    "respuesta": "4",
+    "comentario": "los Staphylococcus coagulasa negativos forman parte de la microbiota habitual de la piel y por tanto su aislamiento en muchos casos debe valorarse con los datos clínicos del paciente y el tipo de infección."
+  },
+  {
+    "número": "25",
+    "pregunta": "Señale la correcta sobre Trichomonas vaginalis",
+    "opciones": [
+      "1. Tiene 4 flagelos.",
+      "2. Tiene forma quística.",
+      "3. Las mujeres son más asintomáticas que los hombres.",
+      "4. Su medio de enriquecimiento es el medio de Roiron/Diamond."
+    ],
+    "respuesta": "4",
+    "comentario": "tiene 5 flagelos (4 flagelos en la parte anterior y 1 flagelo en la posterior). Solo tiene forma de trofozoíto. Las mujeres suelen desarrollar vaginitis y los hombres son más asintomáticos. Por tanto, solo la respuesta 4 es la correcta."
+  },
+  {
+    "número": "26",
+    "pregunta": "Señala la frase incorrecta respecto a Strongyloides stercolaris",
+    "opciones": [
+      "1. Tiene distribución cosmopolita, siendo endémico de zonas húmedas y cálidas.",
+      "2. Las larvas nacen de los huevos en el intestino, por eclosión de los mismos.",
+      "3. Las larvas pueden madurar en el intestino y causar autoinfección.",
+      "4. Es posible un ciclo de vida libre, fuera del huésped humano."
+    ],
+    "respuesta": "2",
+    "comentario": "la hembras de S.stercolaris son ovovivíparas, es decir, los huevos eclosionan en su interior y paren larvas."
+  },
+  {
+    "número": "27",
+    "pregunta": "¿Cuál de los siguientes helmintos puede provocar el ‘Síndrome de Katayama’?",
+    "opciones": [
+      "1. Clonorquis.",
+      "2. S. japonicum.",
+      "3. E. granulosus.",
+      "4. S. stercolaris."
+    ],
+    "respuesta": "2",
+    "comentario": "es un síndrome relacionado con la puesta de huevos, que consiste en un cuadro pseudogripal, con fiebre elevada, eosinofilia, diarrea y tos seca. Debes recordar que Schistosoma también provoca el ‘Síndrome del nadador’ al penetrar las furcocercarias por la piel intacta."
+  },
+  {
+    "número": "28",
+    "pregunta": "El bisfenol A",
+    "opciones": [
+      "1. Produce fibrosis pulmonar.",
+      "2. Desmieliniza el nervio óptico.",
+      "3. Tiene actividad estrogénica.",
+      "4. Tiene actividad nefrotóxica."
+    ],
+    "respuesta": "3",
+    "comentario": "el bisfenol A actúa como disruptor endocrino. Es un componente del plástico con el que se fabrican biberones, juguetes y envases para comida."
+  },
+  {
+    "número": "29",
+    "pregunta": "El método de dumas es una valoración utilizada para la determinación de proteínas en suero que se basa",
+    "opciones": [
+      "1. En hacer reaccionar la muestra con un reactivo de Cu (II) que forma un complejo violeta con los enlaces peptídicos. El complejo violeta que se mide por espectrofotometría.",
+      "2. La muestra se trata con una solución alcalina de cobre y fenol, se produce un cambio de color que se mide por espectrofotometría.",
+      "3. La muestra se mezcla con óxido de cobre en un tubo de combustión. La combustión genera nitrógeno que se reduce a nitrógeno elemental, que se mide su volumen en una bureta.",
+      "4. La muestra se somete a combustión, el nitrógeno se transforma en distintos óxidos de nitrógeno. Introduciendo ozono en la mezcla, que oxida el óxido nítrico a dióxido de nitrógeno. Durante esta reacción se produce radiación visible que se mide."
+    ],
+    "respuesta": "3",
+    "comentario": "Respuesta 1: método de Biuret. Respuesta 2: método Lowry. Respuesta 3: método de Dumas. Respuesta 4: método de combustión con ozono."
+  },
+  {
+    "número": "30",
+    "pregunta": "La inmunofijación es una técnica",
+    "opciones": [
+      "1. Cromatográfica.",
+      "2. Electroforética.",
+      "3. Electroanalítica.",
+      "4. Espectroscópica."
+    ],
+    "respuesta": "2",
+    "comentario": "la inmunofijación es una técnica electroforética."
+  },
+  {
+    "número": "31",
+    "pregunta": "La CH50 es un parámetro que se determina en el laboratorio de inmunología, ¿qué utilidad tiene?",
+    "opciones": [
+      "1. Medir la actividad de la vía alternativa del complemento.",
+      "2. Medir la actividad de la vía clásica del complemento.",
+      "3. Medir la actividad del complejo de ataque a la membrana (CAM).",
+      "4. Medir la actividad del C1 inhibidor."
+    ],
+    "respuesta": "2",
+    "comentario": "la CH50 es una prueba del laboratorio de inmunología que nos permite la determinación de la actividad del complemento activado por la vía CLÁSICA, existe otra prueba que permite determinar la vía alternativa (la AP50)."
+  },
+  {
+    "número": "32",
+    "pregunta": "Aplicando la ecuación de Debye-Hückel para la predicción del efecto salino presente en las siguientes reacciones, una de ellas es correcta",
+    "opciones": [
+      "1. Una disolución de CH CH CH O- y OH- presentará un efecto salino positivo. 3 2 2",
+      "2. Representando el valor de log K frente a I (fuerza iónica), obtendremos una línea recta.",
+      "3. Una disolución de CH (CH ) COO- y H O+ presentará un efecto salino positivo. 3 2 3 3",
+      "4. Una disolución de CH (CH ) CH y OH- presentará un efecto salino negativo. 3 2 3 3"
+    ],
+    "respuesta": "1",
+    "comentario": "la ecuación de Debye-Hückel se denota como: Log K = Log K 0 + 2Z AZ b√\". Cuando un aumento de fuerza iónica se traduce en un aumento de velocidad de reacción, hablamos de efecto salino positivo, y de ocurrir lo contrario, negativo. La magnitud del efecto salino vendrá dada por la carga de los compuestos, generando más efecto salino un ión con carga +2 que uno con carga +1."
+  },
+  {
+    "número": "33",
+    "pregunta": "Se pueden tratar con metronidazol todos estos protozoos menos uno",
+    "opciones": [
+      "1. Dientamoeba fragilis.",
+      "2. Balantidium coli.",
+      "3. Trichomonas vaginalis.",
+      "4. Cyclospora."
+    ],
+    "respuesta": "4",
+    "comentario": "la Cyclospora se trata con cotrimoxazol."
+  },
+  {
+    "número": "34",
+    "pregunta": "Son indicadores de contaminación fecal (indica el incorrecto)",
+    "opciones": [
+      "1. Coliformes.",
+      "2. Clostridium.",
+      "3. Acinetobacter.",
+      "4. Enterococcus."
+    ],
+    "respuesta": "3",
+    "comentario": "los coliformes junto con los Clostridium y los enterococos son indicadores de contaminación fecal reciente."
+  },
+  {
+    "número": "35",
+    "pregunta": "Son pruebas NO invasivas para diagnosticar el Helicobacter pylori todas menos una",
+    "opciones": [
+      "1. Prueba del aliento.",
+      "2. Detección de Ag en heces.",
+      "3. Prueba de detección de ureasa.",
+      "4. Serología."
+    ],
+    "respuesta": "3",
+    "comentario": "el test de la ureasa se realiza en la biopsia gástrica del paciente, lo que la convierte en una prueba invasiva para el paciente."
+  },
+  {
+    "número": "36",
+    "pregunta": "¿Qué bacilo gram negativo es causante de meningitis en recién nacidos?",
+    "opciones": [
+      "1. Neisseria meningitidis.",
+      "2. Listeria monocytogenes.",
+      "3. E. coli K1.",
+      "4. Streptococcus agalactie."
+    ],
+    "respuesta": "3",
+    "comentario": "todas las bacterias arriba citadas causan meningitis en adultos o niños, pero sólo el E.coli es una enterobacteria."
+  },
+  {
+    "número": "37",
+    "pregunta": "¿Qué toxina producida por E.coli provoca cuadros de diarrea sanguinolenta que se pueden complicar con un síndrome urémico-hemolítico?",
+    "opciones": [
+      "1. Toxina shiga-like o verotoxina.",
+      "2. Enterotoxina.",
+      "3. Hemolisina de Kanagawa.",
+      "4. Toxina diarreica."
+    ],
+    "respuesta": "1",
+    "comentario": "las cepas de ESCO que adquieren un fago con la verotoxina, se concierten en cepas llamadas Enterohemorrágicas, provocando diarrea sanguinolenta que se puede complicar con un SUH o una PTT."
+  },
+  {
+    "número": "38",
+    "pregunta": "Cuando la representación de la concentración (C) frente al tiempo (t) genera un gráfico conocido como “stick de hockey” es característico de",
+    "opciones": [
+      "1. Cinética pasiva de orden 1.",
+      "2. Cinética de orden mixto.",
+      "3. Cinética de orden 0.",
+      "4. Modelos no compartimentales."
+    ],
+    "respuesta": "2",
+    "comentario": "la cinética de Michaelis-Menten (cinética de orden mixto) genera un gráfico “en stick de hockey” cuando se representa la concentración frente al tiempo. A tiempos bajos la concentración es elevada, según va aumentando el tiempo, la concentración va reduciéndose por funcionalidad de los sistemas enzimáticos."
+  },
+  {
+    "número": "39",
+    "pregunta": "¿Cuál de los siguientes enunciados NO es una situación que genere una farmacocinética NO LINEAL a nivel del metabolismo?",
+    "opciones": [
+      "1. Saturación de la unión a proteínas plasmáticas (cuando fármaco Eh<0,3).",
+      "2. Autoinducción enzimática.",
+      "3. Modificación del flujo sanguíneo hepático (cuando fármaco Eh<0,3).",
+      "4. Inhibición enzimática."
+    ],
+    "respuesta": "ANULADA",
+    "comentario": "la respuesta correcta es la 3. En este simulacro esta pregunta será anulada y entrará a formar parte del examen la primera pregunta de reserva, pues es la misma pregunta que la número 49. Igualmente, indicamos el comentario a continuación: modificación del flujo sanguíneo hepático afecta a los fármacos con una alta extracción hepática (Eh>0,7) ya que son los que, de forma predominante, se podrían metabolizar. Si el flujo sanguíneo se reduce, los primeros afectados serán aquellos fármacos que deberían ser metabolizados en una situación “normal”."
+  },
+  {
+    "número": "40",
+    "pregunta": "¿Cuál de los siguientes enunciados NO es una situación que genera una farmacocinética NO LINEAL a nivel de la excreción?",
+    "opciones": [
+      "1. Modificación del volumen de orina por efecto de la dosis.",
+      "2. Acidificación del pH urinario.",
+      "3. Saturación de la glicoproteína p.",
+      "4. Saturación del sistema de reabsorción tubular activa."
+    ],
+    "respuesta": "ANULADA",
+    "comentario": "la respuesta correcta es la 3. En este simulacro esta pregunta será anulada y entrará a formar parte del examen la segunda pregunta de reserva, pues es la misma pregunta que la número 50. Igualmente, indicamos el comentario a continuación: el resto de enunciados generan cinética no lineal a nivel de la excreción. La glicoproteína P puede generar farmacocinética no lineal a nivel de la absorción."
+  },
+  {
+    "número": "41",
+    "pregunta": "Durante la atomización con llama, ¿con qué combustible se alcanza una mayor temperatura de la llama?",
+    "opciones": [
+      "1. Aire - Gas natural.",
+      "2. Oxígeno – Hidrógeno.",
+      "3. Óxido nitroso – Acetileno.",
+      "4. Oxígeno – Cianógeno."
+    ],
+    "respuesta": "4",
+    "comentario": "la temperatura de la llama según el combustible empleado aumenta de la siguiente manera: gas natural < hidrógeno < acetileno < cianógeno. La llama cianógeno - oxígeno alcanza temperaturas muy elevadas, y por lo tanto proporciona una mayor sensibilidad. Sin embargo, su uso se encuentra limitado debido a la toxicidad del cianógeno y al peligro de explosiones."
+  },
+  {
+    "número": "42",
+    "pregunta": "Es un bacilo gram positivo anaerobio, catalasa negativo, esporulado y histotóxico",
+    "opciones": [
+      "1. Clostridium difficile.",
+      "2. Clostridium tetani.",
+      "3. Clostridium perfringes.",
+      "4. Bacillus cereus."
+    ],
+    "respuesta": "3",
+    "comentario": "los Clostridium se pueden clasificar en: Enterotóxicos (C. perfringes y C. difficile), Histotóxicos (C. perfringes) y Neurotóxicos (C. tetani y C. botulinum), dependiendo del lugar dónde causan toxicidad, digestivo, piel o SNC."
+  },
+  {
+    "número": "43",
+    "pregunta": "El principal mecanismo de transmisión de las infecciones producidas por Vibrio parahemolyticus es",
+    "opciones": [
+      "1. Fecal-oral.",
+      "2. Gotitas respiratorias.",
+      "3. Consumo de pescado crudo o marisco contaminado.",
+      "4. Consumo de carne contaminada."
+    ],
+    "respuesta": "3",
+    "comentario": "V.cholerae se transmite por consumo de agua o alimentos, V.parahemolyticus se transmite por consumo de mariscos y V.vulnificus por contacto de agua con una herida."
+  },
+  {
+    "número": "44",
+    "pregunta": "¿Con qué unidades se representa mejor la cantidad de fármaco que alcanza la circulación sistémica?",
+    "opciones": [
+      "1. mg/L.",
+      "2. L/h.",
+      "3. Masa/tiempo.",
+      "4. Adimensional."
+    ],
+    "respuesta": "4",
+    "comentario": "se trata de la biodisponibilidad en magnitud (F). Se expresa en porcentaje y representa la cantidad de fármaco que alcanza la circulación sistémica en comparación con la dosis administrada."
+  },
+  {
+    "número": "45",
+    "pregunta": "Las unidades estructurales responsables de las reacciones características de una molécula son",
+    "opciones": [
+      "1. Los átomos.",
+      "2. Los grupos funcionales.",
+      "3. Los enlaces.",
+      "4. Las conformaciones."
+    ],
+    "respuesta": "2",
+    "comentario": "un grupo funcional es el átomo o grupo de átomos en la molécula que es el responsable principal de las reacciones que experimenta el compuesto bajo un conjunto de condiciones."
+  },
+  {
+    "número": "46",
+    "pregunta": "¿Qué formulación oral líquida sería más apropiada para un laxante parafínico?",
+    "opciones": [
+      "1. Jarabe.",
+      "2. Suspensión.",
+      "3. Emulsión.",
+      "4. Los laxantes parafínicos deben usarse por vía rectal en exclusiva."
+    ],
+    "respuesta": "3",
+    "comentario": "la parafina y, por tanto, los laxantes parafínicos son hidrófobos y, por tanto, la forma óptima de utilización es a través de una emulsión para así lograr enmascarar las propiedades organolépticas desagradables. A parte al ser hidrófobos no pueden disolverse en agua como en los jarabes."
+  },
+  {
+    "número": "47",
+    "pregunta": "¿En cuál de estas situaciones fisiológicas el volumen de distribución aumenta para los fármacos liposolubles?",
+    "opciones": [
+      "1. Paciente geriátrico.",
+      "2. Paciente con hipotiroidismo.",
+      "3. Recién nacido.",
+      "4. Paciente sano."
+    ],
+    "respuesta": "1",
+    "comentario": "el enunciado comenta situación fisiológica por lo que el paciente con hipotiroidismo queda descartado. En ancianos, se produce un aumento de la grasa corporal con el consecuente aumento del volumen de distribución de los fármacos liposolubles."
+  },
+  {
+    "número": "48",
+    "pregunta": "¿Cuál de los siguientes parámetros farmacocinéticos NO se puede calcular a partir del AUC?",
+    "opciones": [
+      "1. F.",
+      "2. D.",
+      "3. Cl.",
+      "4. Kel."
+    ],
+    "respuesta": "1",
+    "comentario": "el resto de los parámetros farmacocinéticos se calculan directamente a partir del cálculo del AUC total (Ecuación de Dost y derivadas)."
+  },
+  {
+    "número": "49",
+    "pregunta": "¿Cuál de los siguientes enunciados NO es una situación que genere una farmacocinética NO LINEAL a nivel del metabolismo?",
+    "opciones": [
+      "1. Saturación de la unión a proteínas plasmáticas (cuando fármaco Eh<0,3).",
+      "2. Autoinducción enzimática.",
+      "3. Modificación del flujo sanguíneo hepático (cuando fármaco Eh<0,3).",
+      "4. Inhibición enzimática."
+    ],
+    "respuesta": "3",
+    "comentario": "la modificación del flujo sanguíneo hepático afecta a los fármacos con una alta extracción hepática (Eh>0,7) ya que son los que, de forma predominante, se podrían metabolizar. Si el flujo sanguíneo se reduce, los primeros afectados serán aquellos fármacos que deberían ser metabolizados en una situación “normal”."
+  },
+  {
+    "número": "50",
+    "pregunta": "¿Cuál de los siguientes enunciados NO es una situación que genera una farmacocinética NO LINEAL a nivel de la excreción?",
+    "opciones": [
+      "1. Modificación del volumen de orina por efecto de la dosis.",
+      "2. Acidificación del pH urinario.",
+      "3. Saturación de la glicoproteína p.",
+      "4. Saturación del sistema de reabsorción tubular activa."
+    ],
+    "respuesta": "3",
+    "comentario": "el resto de los enunciados generan cinética no lineal a nivel de la excreción. La glicoproteína P puede generar farmacocinética no lineal a nivel de la absorción."
+  },
+  {
+    "número": "51",
+    "pregunta": "¿Cuál de los siguientes enunciados NO es una situación que genera una farmacocinética NO LINEAL a nivel de la absorción?",
+    "opciones": [
+      "1. Alta solubilidad del fármaco.",
+      "2. Saturación del sistema enzimático intestinal.",
+      "3. Saturación del sistema de transporte activo intestinal.",
+      "4. Modificación del flujo sanguíneo intestinal."
+    ],
+    "respuesta": "1",
+    "comentario": "la baja solubilidad del fármaco si puede genera una situación de cinética no lineal ya que la absorción quedará limitada."
+  },
+  {
+    "número": "52",
+    "pregunta": "¿Cuál de los siguientes enunciados NO es una situación que genera una farmacocinética NO LINEAL a nivel de la distribución?",
+    "opciones": [
+      "1. Saturación de la unión a proteínas plasmáticas.",
+      "2. Saturación a nivel del sistema enzimático intestinal.",
+      "3. Saturación a nivel de la fijación a nivel tisular.",
+      "4. Saturación del sistema de transporte intestinal."
+    ],
+    "respuesta": "2",
+    "comentario": "la saturación a nivel del sistema enzimático intestinal generará una cinética no lineal a nivel de la absorción del fármaco no de la distribución."
+  },
+  {
+    "número": "53",
+    "pregunta": "¿Cuál de los siguientes fármacos suele presentar cinética no lineal a nivel de la absorción?",
+    "opciones": [
+      "1. Fenitoína.",
+      "2. Ácido ascórbico.",
+      "3. Ácido valproico.",
+      "4. Propranolol."
+    ],
+    "respuesta": "4",
+    "comentario": "la fenitoína suele presentar cinética no lineal a nivel del metabolismo, el ácido ascórbico a nivel de excreción, y el ácido valproico a nivel de distribución."
+  },
+  {
+    "número": "54",
+    "pregunta": "¿Cuál de los siguientes fármacos suele presentar cinética no lineal a nivel de la distribución?",
+    "opciones": [
+      "1. Salicilamida.",
+      "2. Tacrolimus.",
+      "3. Paracetamol.",
+      "4. Ácido valproico."
+    ],
+    "respuesta": "4",
+    "comentario": "el ácido valproico genera cinética no lineal por saturación a nivel de proteínas plasmáticas."
+  },
+  {
+    "número": "55",
+    "pregunta": "¿Cuál es el mecanismo de acción de las excitotoxinas?",
+    "opciones": [
+      "1. Inhibición de receptores colinérgicos.",
+      "2. Activación de receptores NMDA.",
+      "3. Inhiben receptores de glicina.",
+      "4. Activan canales de calcio tipo L."
+    ],
+    "respuesta": "2",
+    "comentario": "las excitotoxinas se unen a receptores NMDA produciendo una excitotoxicidad por sobreestimulación de estos receptores."
+  },
+  {
+    "número": "56",
+    "pregunta": "¿Qué antiagregante de los citados a continuación no modifica el tiempo de hemorragia?",
+    "opciones": [
+      "1. Ácido acetilsalicílico.",
+      "2. Dipiridamol.",
+      "3. Ticlopidina.",
+      "4. Cangrelor."
+    ],
+    "respuesta": "2",
+    "comentario": "el dipiridamol es una pirinopirimidina que inhibe la agregación plaquetaria por su acción inhibidora sobre la enzima fosfodiesterasa, con el consiguiente aumento del AMPc y GMPc intraplaquetarios. Aunque no modifica el tiempo de hemorragia, no se utiliza nunca en monoterapia como antiagregante plaquetario, sino asociado a ácido acetilsalicílico u otros anticoagulantes orales porque la acción vasodilatadora del dipiridamol produce una alta incidencia de reacciones adversas a las dosis necesarias para ejercer acción antiagregante plaquetaria por sí solo."
+  },
+  {
+    "número": "57",
+    "pregunta": "Indique cuál de las siguientes pruebas diagnósticas se debería comprobar ante la sospecha de colangitis biliar primaria",
+    "opciones": [
+      "1. Anticuerpos anti-acuaporina 4 en sangre.",
+      "2. Estudio del gen MEFV.",
+      "3. Calprotectina en heces.",
+      "4. Anticuerpos antimitocondriales en sangre."
+    ],
+    "respuesta": "4",
+    "comentario": "los anticuerpos antimitocondriales (AMA), frecuentemente AMA de tipo M2, se utilizan en el diagnóstico de la CBP. En el trastorno del espectro de la neuromielitis óptica, el sistema inmune se dirige contra la acuaporina 4 (opción 1 incorrecta). El estudio del gen MEFV es útil para la fiebre mediterránea familiar (opción 1 incorrecta). Los niveles altos de calprotectina indican infecciones bacterianas, parasitarias, cáncer colorrectal o determinadas enfermedades que provocan inflamación del intestino (opción 3 incorrecta)."
+  },
+  {
+    "número": "58",
+    "pregunta": "Identifique la opción correcta sobre el tipo de hipoacusia cuantitativa y su relación con el test de Rinne y Weber",
+    "opciones": [
+      "1. En la hipoacusia de transmisión, la conducción ósea es mejor que la conducción aérea, lo que resulta en un resultado negativo en el test de Rinne y una lateralización hacia el oído afectado en el test de Weber.",
+      "2. En la hipoacusia de percepción, la conducción ósea es peor que la conducción aérea, lo que resulta en un resultado negativo en el test de Rinne y una lateralización hacia el oído no afectado en el test de Weber.",
+      "3. La hipoacusia de transmisión no afecta los resultados del test de Rinne ni del test de Weber, ya que ambos evalúan principalmente la conducción aérea.",
+      "4. La hipoacusia de percepción produce una abolición de la percepción del sonido en ambos oídos, lo que resulta en resultados inconsistentes en el test de Rinne y una lateralización hacia el oído afectado en el test de Weber."
+    ],
+    "respuesta": "1",
+    "comentario": "en la hipoacusia de transmisión, la conducción ósea suele ser mejor que la conducción aérea, lo que resulta en un resultado negativo en el test de Rinne y una lateralización hacia el oído afectado en el test de Weber. Esto se debe a la disfunción en el sistema de conducción del oído medio o externo, lo que permite una mejor percepción del sonido a través de la conducción ósea. Sin embargo, en la hipoacusia de percepción, la conducción aérea suele ser mejor que la conducción ósea, lo que resulta en un resultado positivo en el test de Rinne y una lateralización hacia el oído sano."
+  },
+  {
+    "número": "59",
+    "pregunta": "¿Cuál de las siguientes afecciones medulares está relacionada con la infección tardía de la médula por Treponema pallidum?",
+    "opciones": [
+      "1. Síndrome medular anterior.",
+      "2. Síndrome de Brown-Séquard.",
+      "3. Síndrome de los cordones posteriores.",
+      "4. Síndrome medular central."
+    ],
+    "respuesta": "3",
+    "comentario": "el síndrome de los cordones posteriores es una lesión medular que cursa con anestesia profunda (propiocepción y táctil profunda) y mantiene intacta la sensibilidad superficial. La anestesia es de distribución funicular homolateral. Dicho síndrome presenta una relación con la infección tardía de Treponema pallidum y neurosífilis El período latente entre la infección y la presentación de los síntomas puede estar alrededor de los 20 años, pero se ha visto en ocasiones con presentación a los 3 años de la infección temprana. Los síntomas más frecuentes son ataxia sensorial y dolores lancinantes que progresan a episodios de dolor súbitos, breves e intensos que afectan a las extremidades, la espalda y la cara y pueden durar minutos o incluso días."
+  },
+  {
+    "número": "60",
+    "pregunta": "¿Cuál de los siguientes parámetros resulta más útil como marcador de inflamación, gravedad y mortalidad en pacientes ingresados por sepsis?",
+    "opciones": [
+      "1. Procalcitonina sérica.",
+      "2. ADE o RDW.",
+      "3. PCR.",
+      "4. VSG."
+    ],
+    "respuesta": "2",
+    "comentario": "la amplitud de distribución eritrocitaria (ADE) o red distribution width (RDW) es una medida cuantitativa de la homogeneidad en el tamaño de eritrocitos. Hablamos de anisocitosis cuando existen eritrocitos de distintos tamaños. La anisocitosis eritrocitaria es un parámetro de gran interés en la predicción de la gravedad y mortalidad de pacientes ingresados con sepsis que resulta de mayor utilidad que otros marcadores como la PCR o la procalcitonina. Los niveles más altos del ancho de distribución eritrocitario aparecen durante las primeras 72 horas del deterioro clínico (ingreso en la unidad de cuidados intensivos); momento en el que presenta la mayor capacidad predictiva de mortalidad, y es independiente de la concentración sanguínea de hemoglobina, de las comorbilidades o de la gravedad clínica, estimada por las escalas pronósticas."
+  },
+  {
+    "número": "61",
+    "pregunta": "Paciente varón de 81 años con antecedentes de fibrosis pulmonar, cirrosis hepática secundaria a infección por virus de hepatitis C, mielodisplasia y trombocitopenia refractaria. Ha sido recientemente operado de esplenectomía. Al realizar un frotis sanguíneo, se observa lo siguiente. ¿Con qué estructura de las indicadas a continuación se relaciona lo que señalan las flechas?",
+    "opciones": [
+      "1. Bastones de Auer.",
+      "2. Cuerpos de Heinz.",
+      "3. Cuerpo de Döhle.",
+      "4. Cuerpos de Howell-Jolly."
+    ],
+    "respuesta": "4",
+    "comentario": "en la imagen se observan inclusiones basófilas intraeritrocitarias, características de los cuerpos de Howell-Jolly. Los cuerpos de Howell-Jolly son remanentes nucleares intraeritrocitarios que se observan en el frotis de sangre periférica con tinción de Wright. Nos permiten evaluar la actividad esplénica debido a que en condiciones normales serían eliminados por el bazo, por ello su presencia indica la condición de asplenia o hipoesplenismo funcional, que es propia de pacientes con esplenectomía."
+  },
+  {
+    "número": "62",
+    "pregunta": "La concentración de una disolución de cloruro de sodio (NaCl) es 2.924 mg/L. ¿Cuántos partes por millón (ppm) equivalen a esta concentración?",
+    "opciones": [
+      "1. 2.924 ppm.",
+      "2. 29.240 ppm.",
+      "3. 29,24 ppm.",
+      "4. 292.400 ppm."
+    ],
+    "respuesta": "1",
+    "comentario": "1 mg/l = 1 ppm."
+  },
+  {
+    "número": "63",
+    "pregunta": "La formulación de un comprimido vaginal NO contendrá",
+    "opciones": [
+      "1. Laurilsulfato sódico.",
+      "2. Lactosa.",
+      "3. Carbonato de sodio + ácido bórico.",
+      "4. Hidroxipropilmetilcelulosa."
+    ],
+    "respuesta": "4",
+    "comentario": "los comprimidos vaginales pueden llevar laurilsulfato sódico, que se emplea como tensioactivo y como microbiocida. La lactosa se utiliza como diluyente y para restablecer el pH vaginal. El carbonato sódico + ácido cítrico/tartárico/bórico es una mezcla efervescente que también puede emplearse. La hidroxipropilmetilcelulosa es un viscosizante, aglutinante y polímero gastrosoluble utilizado en formulación de comprimidos normales, no vaginales."
+  },
+  {
+    "número": "64",
+    "pregunta": "El lipopolisacárido bacteriano (LPS) es un componente de la pared de las bacterias gram negativas que activa la inmunidad innata, ¿a través de qué receptor TLR?",
+    "opciones": [
+      "1. TLR-3.",
+      "2. TLR-4.",
+      "3. TLR-5.",
+      "4. TLR-7."
+    ],
+    "respuesta": "2",
+    "comentario": "los receptores tipo Toll (TLR) son receptores de reconocimiento de patrones que actúan en la inmunidad innata. Existen 10 tipos en función del patrón que reconocen. El TLR-4 es uno de los receptores más importantes ya que reconoce el LPS en asociación con CD14 y MD-2, presentes en el macrófago."
+  },
+  {
+    "número": "65",
+    "pregunta": "¿Cuál de los siguientes mecanorreceptores con ubicación en la epidermis y piel no vellosa tiene un umbral de activación más bajo para estímulos mecánicos y una adaptación lenta?",
+    "opciones": [
+      "1. Corpúsculos de Pacini.",
+      "2. Discos de Merkel.",
+      "3. Corpúsculos de Meissner.",
+      "4. Corpúsculos de Ruffini."
+    ],
+    "respuesta": "2",
+    "comentario": "los discos de Merkel tienen un umbral de activación más bajo para estímulos mecánicos, lo que les permite detectar deformaciones muy leves en la piel. Esto implica una alta sensibilidad táctil y una gran precisión en la percepción de detalles finos y texturas."
+  },
+  {
+    "número": "66",
+    "pregunta": "Sobre la calcemia",
+    "opciones": [
+      "1. La mayor parte del calcio en sangre se encuentra en su forma ionizada.",
+      "2. El calcio en estado ionizado es el menos abundante en sangre.",
+      "3. La mayor parte del calcio en sangre se encuentra unido a proteínas plasmáticas como la albúmina.",
+      "4. El calcio unido a proteínas plasmáticas es el menos abundante en sangre."
+    ],
+    "respuesta": "1",
+    "comentario": "aproximadamente un 50% del calcio en sangre se encuentra en su forma ionizada, un 40% unido a proteínas plasmáticas como la albúmina y el 10% restante se encuentra formando complejos con aniones como el fósforo."
+  },
+  {
+    "número": "67",
+    "pregunta": "Sobre las hormonas durante el embarazo",
+    "opciones": [
+      "1. La progesterona es sintetizada por el cuerpo lúteo durante todo el embarazo.",
+      "2. La LH y la FSH tienen niveles aumentados.",
+      "3. El estriol es el estrógeno por excelencia.",
+      "4. El lactógeno placentario tiene una función similar a la insulina."
+    ],
+    "respuesta": "3",
+    "comentario": "la progesterona se sintetiza por el cuerpo lúteo hasta las semanas 7ª/8ª, que pasa a sintetizarlo la placenta. Las gonadotropinas están disminuidas por un feedback negativo por parte de la prolactina principalmente. El lactógeno placentario tiene una función similar a la GH pues es hiperglucemiante."
+  },
+  {
+    "número": "68",
+    "pregunta": "Indica cuál de estas opciones es un hipogonadismo hipergonadotropo",
+    "opciones": [
+      "1. Síndrome de Klinefelter.",
+      "2. Síndrome de Kallman.",
+      "3. Panhipopituitarismo.",
+      "4. Ninguna de la anteriores."
+    ],
+    "respuesta": "1",
+    "comentario": "hablamos de identificar cuál de estas afecciones es un hipogonadismo primario porque nos indican que las gonadotropinas están elevadas (hipergonadotropo), es decir, la hipófisis no está alterada. Por tanto, la afección es a nivel gonadal. La única opción plausible es el síndrome de Klinefelter pues en el síndrome de Kallman tenemos afección a nivel hipotalámico y en el panhipopituitarismo, la hipófisis es incapaz de producir hormonas por lo que no tendremos FSH y LH."
+  },
+  {
+    "número": "69",
+    "pregunta": "De los siguientes marcadores tumorales, señale cuál es el más indicado para la monitorización del cáncer de mama",
+    "opciones": [
+      "1. CA 125.",
+      "2. CA 19.9.",
+      "3. Alfa-fetoproteína (AFP).",
+      "4. CA 15.3."
+    ],
+    "respuesta": "4",
+    "comentario": "el antígeno tumoral 15.3 es un antígeno carbohidrato que actúa como marcador del carcinoma de mama. Se utiliza tanto en la estadificación como en el pronóstico y monitorización del tratamiento. El CA 27.29 es otro marcador equivalente al CA 15.3 que también se utiliza en carcinoma de mama y ambos pueden encontrarse elevados en otras neoplasias, tumores benignos de mama o enfermedad hepática. Recuerda que el CA 125 tiene utilidad en el carcinoma ovárico y, la AFP, en carcinoma hepatocelular y tumores de células germinales."
+  },
+  {
+    "número": "70",
+    "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor un aspecto esencial del humor acuoso en el ojo humano?",
+    "opciones": [
+      "1. El humor acuoso se forma principalmente en el cuerpo vítreo y se transporta a través de los conductos de Schlemm hacia la córnea.",
+      "2. Una parte del humor acuoso se reabsorbe por una vía de drenaje secundaria llamada uveocorneal.",
+      "3. La producción excesiva de humor acuoso está asociada comúnmente con la presión intraocular baja.",
+      "4. El humor acuoso es producido por el cuerpo ciliar y fluye hacia la cámara anterior del ojo reabsorbiendo por el conducto de Schlemm."
+    ],
+    "respuesta": "4",
+    "comentario": "El humor acuoso es producido por el cuerpo ciliar y fluye hacia la cámara anterior del ojo, donde proporciona nutrición y oxígeno a las estructuras oculares avasculares, como la córnea y el cristalino, y mantiene la presión intraocular adecuada. Una pequeña parte se reabsorbe por una vía de drenaje secundaria llamada uveoescleral."
+  },
+  {
+    "número": "71",
+    "pregunta": "¿Cuál es el mecanismo de acción del vorapaxar?",
+    "opciones": [
+      "1. Aumenta los niveles intraplaquetarios del AMPc.",
+      "2. Inhibición selectiva de la unión del ADP a su receptor plaquetario.",
+      "3. Inhibición del receptor GpIIb/IIIa.",
+      "4. Inhibidor selectivo y reversible del receptor-1 activado de proteasa de las plaquetas."
+    ],
+    "respuesta": "4",
+    "comentario": "1) Dipiridamol, epoprostenol e iloprost; 2) Ticlopidina, clopidogrel, prasugrel, ticagrelor y cangrelor; 3) Abcximab."
+  },
+  {
+    "número": "72",
+    "pregunta": "Identifica el orden correcto de la elaboración de cápsulas duras",
+    "opciones": [
+      "1. Preparación de la solución concentrada de gelatina, secado, formación de la cápsula y ensamblado de cuerpo y tapa.",
+      "2. Preparación de la solución concentrada de gelatina, formación de la cápsula, ensamblado de cuerpo y tapa y secado.",
+      "3. Preparación de la solución concentrada de gelatina, formación de la cápsula, secado y ensamblado de cuerpo y tapa.",
+      "4. Formación de la cápsula, preparación de la solución concentrada de gelatina, secado y ensamblado de cuerpo y tapa."
+    ],
+    "respuesta": "3",
+    "comentario": "no se han preguntado el orden de las etapas en el proceso de encapsulación, pero si ha ocurrido en otros como el grajeado por lo que debemos conocer que es el siguiente: 1. Preparación de la solución concentrada de gelatina (30-40%) en agua desmineralizada. 2. Formación de la cápsula por inmersión en la solución de gelatina. 3. Secado de las películas en estufas. 4. Extracción y ensamblado de los cuerpos y tapas secas."  
+  },
+  {
+    "número": "73",
+    "pregunta": "¿Cuál de los siguientes enunciados relacionados con la termodinámica es falso?",
+    "opciones": [
+      "1. Las variables presión, volumen y capacidades caloríficas a presión y volumen constante (Cp y Cv) son funciones de estado.",
+      "2. La energía interna de un sistema es una propiedad extensiva.",
+      "3. La presión de un sistema es una propiedad intensiva.",
+      "4. La capacidad calorífica de un sistema es una propiedad intensiva."
+    ],
+    "respuesta": "4",
+    "comentario": "la capacidad calorífica (Cv o Cp) de un sistema es una propiedad extensiva, pero la capacidad calorífica específica (Cv/m o Cp/m) es una propiedad intensiva al estar dividido por la masa del sistema. Por otro lado, las variables T,V,P,Cp,Cv,S,U,H,G son funciones de estado, mientras que calor (Q) y trabajo (W) no lo son."
+  },
+  {
+    "número": "74",
+    "pregunta": "Se administra en perfusión intravenosa para evitar la coagulación en técnicas de circulación extracorpórea cuando la heparina no sea adecuada",
+    "opciones": [
+      "1. Epoprostenol.",
+      "2. Ticlopidina.",
+      "3. Cangrelor.",
+      "4. Vorapaxar."
+    ],
+    "respuesta": "1",
+    "comentario": "el resto de opciones son de administración oral."
+  },
+  {
+    "número": "75",
+    "pregunta": "Indica qué sentencia NO es cierta sobre el magnesio",
+    "opciones": [
+      "1. Al igual que el calcio y el fósforo, también se encuentra mayoritariamente en huesos.",
+      "2. La mayor parte del magnesio se reabsorbe a nivel tubular en el asa de Henle.",
+      "3. Es el catión intracelular más abundante.",
+      "4. Las alteraciones del fósforo acompañan a las del magnesio."
+    ],
+    "respuesta": "4",
+    "comentario": "las alteraciones de calcio acompañan a las del magnesio. De hecho, en caso de hipomagnesemia severa podría aparecer hipocalcemia."
+  },
+  {
+    "número": "76",
+    "pregunta": "En cuál de las siguientes patologías NO está indicado eculizumab",
+    "opciones": [
+      "1. Hemoglobinuria paroxística nocturna.",
+      "2. Síndrome hemolítico urémico típico.",
+      "3. Miastenia gravis generalizada refractaria en pacientes de 6 años o más con anticuerpos positivos frente a receptores de la acetilcolina.",
+      "4. Trastorno del espectro de neuromielitis óptica en pacientes con anticuerpos positivos frente a acuaporina-4 con curso recidivante de la enfermedad."
+    ],
+    "respuesta": "2",
+    "comentario": "eculizumab es un anticuerpo IgG2/4κ monoclonal humanizado recombinante que se une a la proteína del complemento C5 humana e inhibe la activación del complemento terminal. Actúa como inhibidor del complemento terminal que se une específicamente a la proteína del complemento C5 con gran afinidad, con lo que inhibe su escisión en C5a y C5b e impide la generación del complejo C5b-9 del complemento terminal. Según ficha técnica tiene indicación en el síndrome hemolítico urémico atípico (opción 2 falsa). El resto de las opciones también son indicaciones de eculizumab."
+  },
+  {
+    "número": "77",
+    "pregunta": "Sobre la Hemocromatosis Hereditaria (HH), NO es cierto que",
+    "opciones": [
+      "1. Puede provocar cirrosis, hepatocarcinoma, diabetes mellitus y artropatías.",
+      "2. Los portadores de HH son siempre sintomáticos.",
+      "3. Las HH que causan déficit de hepcidina son de herencia autosómica recesiva.",
+      "4. La mutación HFE altera el funcionamiento de los Tfr1 y Tfr2 en respuesta a las concentraciones de hierro."
+    ],
+    "respuesta": "2",
+    "comentario": "la hemocromatosis hereditaria o genética engloba a un grupo de trastornos en los que distintas mutaciones generan una sobrecarga de hierro que afecta a diferentes órganos y sistemas. La mutación del gen HFE C282Y es la más frecuentemente detectada en los pacientes del norte de Europa. Todas las respuestas son correctas salvo la 2, ya que los portadores de HH pueden ser tanto sintomáticos como asintomáticos. En la siguiente imagen se recogen las posibles manifestaciones clínicas:"
+  },
+  {
+    "número": "78",
+    "pregunta": "Teniendo en cuenta las sensaciones sápidas primarias, indique la opción INCORRECTA",
+    "opciones": [
+      "1. El sabor amargo no depende de ningún tipo concreto de compuesto químico, aunque la mayoría son productos orgánicos de cadena larga y alcaloides.",
+      "2. El sabor dulce se localiza en la punta de la lengua.",
+      "3. En el sabor ácido la intensidad es proporcional al logaritmo de la concentración de hidrogeniones.",
+      "4. El sabor umami se localiza en los laterales posteriores de la lengua."
+    ],
+    "respuesta": "4",
+    "comentario": "el sabor umami o “sabor delicioso” está presente en los alimentos que contienen L-glutamato (extractos de carne o queso curado) y se encuentra localizado en la parte central y lateral de la lengua."
+  },
+  {
+    "número": "79",
+    "pregunta": "Qué sustancia produce como efecto tóxico principal daño hepático",
+    "opciones": [
+      "1. Tetracloruro de carbono.",
+      "2. Monóxido de carbono.",
+      "3. Etilenglicol.",
+      "4. Benceno."
+    ],
+    "respuesta": "1",
+    "comentario": "el tetracloruro de carbono produce daño hepático como efecto tóxico principal. También produce daño renal y depresión del SNC. Tratamiento: medidas generales y N-acetil-cisteína."
+  },
+  {
+    "número": "80",
+    "pregunta": "¿Cuál de estas opciones puede NO ser causa de disfunción eréctil?",
+    "opciones": [
+      "1. Afección del sistema nervioso simpático.",
+      "2. Antidepresivos.",
+      "3. Déficit de testosterona.",
+      "4. Ninguna de las anteriores."
+    ],
+    "respuesta": "1",
+    "comentario": "la disfunción eréctil es “la incapacidad del hombre para desarrollar o mantener una erección de suficiente rigidez para un coito satisfactorio”, definición extraída del libro de fisiología humana Guyton. Tanto los antidepresivos como el déficit de testosterona pueden ser causantes de este fenómeno, pero no el sistema nervioso simpático puesto que este no es el responsable de la erección. El responsable de la erección es el sistema nervioso parasimpático."
+  },
+  {
+    "número": "81",
+    "pregunta": "Indica cuál de estas opciones NO está relacionada con la función de la PTH",
+    "opciones": [
+      "1. La hiperfosfatemia no estimula la secreción de PTH.",
+      "2. Tanto la hiper- como la hipomagnesemia mantenida disminuyen la secreción de PTH.",
+      "3. El principal estímulo para la liberación de PTH es un descenso en la concentración de calcio.",
+      "4. La liberación de PTH prolongada puede producir una hipertrofia de la glándula paratiroidea."
+    ],
+    "respuesta": "1",
+    "comentario": "la liberación de la PTH está estimulada principalmente por un descenso en los niveles de calcio, pero también por una hiperfosfatemia e hipomagnesemia. No obstante, una hipomagnesemia severa y mantenida en el tiempo produce una inhibición de la liberación de PTH."
+  },
+  {
+    "número": "82",
+    "pregunta": "¿Cuál de los siguientes genes NO controla la expresión de los antígenos ABO?",
+    "opciones": [
+      "1. ESR1.",
+      "2. H.",
+      "3. ABO.",
+      "4. Se."
+    ],
+    "respuesta": "1",
+    "comentario": "recuerda que el gen ESR1 codifica para un receptor de estrógenos. Hay tres genes que controlan la expresión de los antígenos ABO: • Gen H, ubicado en el cromosoma 19, que codifica para la producción de una enzima transferasa que une una molécula de L-fucosa a la galactosa terminal de un precursor común unido a los lípidos o proteínas de membrana del eritrocito, dando origen al antígeno H, el cual es el paso anterior en la formación de los antígenos de los grupos sanguíneos ABO. • Gen ABO, ubicado en el cromosoma 9, posee tres alelos (A, B y O), que varían de acuerdo a las sustituciones de nucleótidos, las cuales determinan las especificidades de las enzimas para las cuales codifican. • Gen Se, ubicado también en el cromosoma 19, codifica para una enzima (fucosiltransferasa) que se expresa en el epitelio de tejidos secretores, incluidas las glándulas salivares y los tractos respiratorio y gastrointestinal."
+  },
+  {
+    "número": "83",
+    "pregunta": "En la mujer",
+    "opciones": [
+      "1. El pico de LH se produce aproximadamente 12h antes de la liberación del ovocito en la ovulación.",
+      "2. La progesterona regula el aumento de LH mediante un feedback positivo.",
+      "3. Los estrógenos regulan el aumento de LH mediante un feedback negativo.",
+      "4. Las cantidades de FSH no cambian durante el ciclo ovárico, es decir, se mantienen estables."
+    ],
+    "respuesta": "1",
+    "comentario": "los estrógenos son los encargados de regular el aumento de LH mediante feedback positivo para alcanzar un pico aproximadamente 12h antes de liberar el ovocito en la ovulación. Los niveles de FSH sí oscilan a lo largo del ciclo menstrual, aunque es cierto que esta hormona no sufre un aumento tan marcado como la LH."
+  },
+  {
+    "número": "84",
+    "pregunta": "La mostaza negra (Brassica nigra) es una planta que forma parte de la familia Brassicaceae que crece en la zona del Mediterráneo. ¿Qué compuesto de los aquí mencionados produce el sabor picante característico de la mostaza?",
+    "opciones": [
+      "1. Capsaicina.",
+      "2. Piperina.",
+      "3. Fenoles.",
+      "4. Glucosinolatos."
+    ],
+    "respuesta": "4",
+    "comentario": "la mostaza (o Sinapsis alba L.) es una planta cuyo nombre deriva del latín “Mustum ardens”. Es una planta anual, no muy grande (30 a 60 cm). Las semillas de esta planta son las que tienen las funciones descritas en el enunciado. Cuando las semillas se muelen o se mastican, las enzimas presentes en la planta descomponen los glucosinolatos en varios compuestos. Estos glucosinolatos son compuestos volátiles, con efecto lacrimógeno y que pueden causar también irritación."
+  },
+  {
+    "número": "85",
+    "pregunta": "Indique la respuesta CORRECTA sobre la cromatografía de afinidad",
+    "opciones": [
+      "1. El fundamento de la separación en cromatografía de afinidad es la especificidad biológica de la unión irreversible entre el analito y una molécula fijada iónicamente a la fase estacionaria denominada ligando de afinidad.",
+      "2. Una de sus aplicaciones es la resolución de mezclas de isómeros",
+      "3. Los rellenos de la columna están formados por copolimeros de estireno-divinilbenceno entrecruzados.",
+      "4. La longitud y la carga de la molécula espaciadora influyen en la capacidad de la fase estacionaria para unir específicamente el componente que desea separarse."
+    ],
+    "respuesta": "4",
+    "comentario": "la separación en cromatografía de afinidad es la especificidad biológica de la unión reversible entre el analito y una molécula fijada COVALENTEMENTE a la fase estacionaria denominada ligando de afinidad. La resolución de mezclas de isómeros corresponde a la cromatografía de adsorción. Los rellenos de copolímeros de estireno-divinilbenceno entrecruzados son característicos de la cromatografía de exclusión."
+  },
+  {
+    "número": "86",
+    "pregunta": "En un sistema móvil, donde se produce la expansión de un gas a presión constante, podemos afirmar que su trabajo de expansión",
+    "opciones": [
+      "1. Tiene un valor positivo.",
+      "2. Puede calcularse como W = -P ∆V. ext",
+      "3. El valor de variación de trabajo coincidirá, con signo contrario, con la variación de energía interna.",
+      "4. La expansión de un gas a presión constante es un fenómeno termodinámicamente desfavorable, por lo que no puede ocurrir de forma espontánea."
+    ],
+    "respuesta": "3",
+    "comentario": "la expresión matemática más utilizada para expresar el trabajo es precisamente el del trabajo de expansión/compresión a presión constante (W= P ∆V). El trabajo de expansión tiene un valor negativo ext puesto que es el sistema quien transfiere energía, en forma de trabajo, al entorno. El valor de W solo es coincidente con signo contrario con ∆U si el proceso es adiabático (Q = 0)."
+  },
+  {
+    "número": "87",
+    "pregunta": "En cuanto a la farmacocinética de los anticoagulantes orales indirectos, es falso que",
+    "opciones": [
+      "1. Se absorben bien por vía oral.",
+      "2. Presentan elevada unión a proteínas plasmáticas.",
+      "3. Atraviesan la barrera placentaria.",
+      "4. Se metabolizan gracias al citocromo CYP3A4."
+    ],
+    "respuesta": "4",
+    "comentario": "los anticoagulantes orales indirectos presentan gran variabilidad en la dosis, debido a variantes genéticas en del citocromo # (CYP2C9) que participa en su metabolismo, y de la Vitamina K epóxido $%& reductasa, que es su enzima diana."
+  },
+  {
+    "número": "88",
+    "pregunta": "En la síntesis de la vitamina D NO está implicado/a",
+    "opciones": [
+      "1. La luz solar.",
+      "2. La melanina de la piel.",
+      "3. La PTH.",
+      "4. Están las tres implicadas."
+    ],
+    "respuesta": "2",
+    "comentario": "la luz solar permite la síntesis de vitamina D3, precursor de la vitamina D activa y la PTH estimula a la 1α-hidroxilasa, encargada de la conversión de calcidiol o 25-hidroxicolecalciferol en calcitriol o 1-25- dihidroxicolecalciferol."
+  },
+  {
+    "número": "89",
+    "pregunta": "Durante el proceso de espermatogénesis, ¿quién sufre la primera división meiótica?",
+    "opciones": [
+      "1. Espermatocito secundario.",
+      "2. Espermatozoide.",
+      "3. Espermatogonia.",
+      "4. Espermatocito primario."
+    ],
+    "respuesta": "4",
+    "comentario": "la espermatogonia se va dividiendo mitóticamente y diferenciando en espermatocito primario. Este es el que sufre la primera meiosis para dar dos espermatocitos secundarios, que sufren la segunda división meiótica. Las células resultantes son las espermátides que se transforman en espermatozoides."
+  },
+  {
+    "número": "90",
+    "pregunta": "¿Cuál de las siguientes patologías no está relacionada con los hematíes?",
+    "opciones": [
+      "1. Enfermedad de Kahler.",
+      "2. Enfermedad de Marchiafava-Micheli.",
+      "3. Enfermedad de Minkowski Chauffard.",
+      "4. Síndrome de Zieve."
+    ],
+    "respuesta": "1",
+    "comentario": "la enfermedad de Kahler o mieloma múltiple es el prototipo de gammapatía monoclonal maligna (respuesta 1 correcta). La enfermedad de Marchiafava-Micheli es la hemoglobinuria paroxística nocturna; la enfermedad de Minkowski Chauffard es la esferocitosis hereditaria; el síndrome de Zieve es una crisis hemolítica que cursa con hiperlipidemia. Por tanto, las respuestas 2, 3 y 4 son patologías que afectas a los eritrocitos."
+  },
+  {
+    "número": "91",
+    "pregunta": "La siguiente imagen muestra el frotis de sangre periférica de un paciente en tratamiento con dapsona, ¿qué observa en los hematíes?",
+    "opciones": [
+      "1. Cuerpos de Howell-Jolly.",
+      "2. Cuerpos de Pappenheimer.",
+      "3. Cuerpos de Heinz.",
+      "4. Punteado basófilo."
+    ],
+    "respuesta": "2",
+    "comentario": "se trata del caso de un paciente con anemia hemolítica inducida por un fármaco oxidante, la dapsona. En el frotis sanguíneo se observan cuerpos de Heinz, típicos de la anemia hemolítica por déficit de glucosa 6-fosfato deshidrogenasa. En esta enzimopatía los eritrocitos no tienen forma alternativa de generar NADPH (carecen de mitocondrias) para regenerar el glutatión a su estado reducido y protegerse frente a oxidantes. Esto da lugar a una mayor susceptibilidad frente a oxidantes (como la dapsona) y la hemoglobina precipita (cuerpos de Heinz)."
+  },
+  {
+    "número": "92",
+    "pregunta": "En relación con la pregunta anterior, ¿qué tipo de tinción se usa para visualizar los cuerpos de Heinz?",
+    "opciones": [
+      "1. Azul de toluidina.",
+      "2. Azul de cresilo.",
+      "3. Azul de metilo.",
+      "4. Azul de bromotimol."
+    ],
+    "respuesta": "2",
+    "comentario": "los cuerpos de Heinz se observan como diminutas inclusiones redondeadas de color púrpura, ubicadas hacia la periferia de la membrana eritrocitaria. Estas suelen ser rígidas. Por lo general aparecen tanto en eritrocitos jóvenes como en los maduros. Puede haber de uno a varios cuerpos de Heinz dentro de un mismo glóbulo rojo. Para evidenciarlos se pueden usar dos tipos de colorantes: el azul de cresilo brillante y el violeta de cresilo. Se prepara una solución de colorante al 0,5% con solución salina y se filtra."
+  },
+  {
+    "número": "93",
+    "pregunta": "El potencial de unión líquida se define como",
+    "opciones": [
+      "1. La diferencia de potencial generado en la interfase de la superficie del electrodo y la solución electrolítica que le rodea.",
+      "2. La diferencia de potencial generado en la interfase cada solución electrolítica con el puente salino.",
+      "3. La diferencia de potencial generado entre las celdas que componen la celda galvánica.",
+      "4. El potencial generado entre el conductor eléctrico y el puente salino."
+    ],
+    "respuesta": "2",
+    "comentario": "definición directa de potencial de unión líquida."
+  },
+  {
+    "número": "94",
+    "pregunta": "Respecto a la eliminación de pirógenos en las preparaciones inyectables, señale la respuesta correcta",
+    "opciones": [
+      "1. La separación cromatográfica retiene la endotoxina por formación de complejos con sustancias previamente adsorbidas en columnas de separación.",
+      "2. La ultrafiltración es un método que emplea ultrafiltros con límite de peso molecular = 700, pero si la solución contiene cantidades significativas de tensioactivos (Tween®) o de agentes quelantes (EDTA®), deben utilizarse filtros con límite de peso molecular = 10.000, ya que éstos aumentan el tamaño de los agregados de endotoxinas.",
+      "3. La ósmosis inversa utiliza membranas de poro de 1 nm, ya que eliminan las endotoxinas por un mecanismo de exclusión de tamaños.",
+      "4. La atracción electrostática es un método en el que se forman agregados de endotoxinas cuando se trabaja a pH = 9 y se comportan como aniones, pudiendo ser eliminados por adsorbentes catiónicos."
+    ],
+    "respuesta": "1",
+    "comentario": "la respuesta correcta es la 1. El resto son falsas. - La ultrafiltración utiliza filtros de peso molecular = 100.000, y si se emplean tensioactivos o agentes quelantes, se deben utilizar filtros de peso molecular = 10.000, ya que éstos reducen el tamaño de los agregados, no lo aumentan. - La ósmosis inversa emplea membranas de poro de 100 nm, no de 1. - En la atracción electrostática se trabaja a pH ácido (aproximadamente 2) para formar aniones y que puedan ser eliminados por adsorbentes catiónicos."
+  },
+  {
+    "número": "95",
+    "pregunta": "Enfermedades como la crioglobulinemia y el lupus eritematoso sistémico normalmente se presenta con niveles bajos de C3 y C4 en sangre debido a la activación de la vía clásica del complemento. En cambio, enfermedades como la glomerulonefritis por C3 generalmente tienen niveles bajos de C3 debido a la activación de la vía alternativa. ¿Cómo se espera que tenga los niveles de C2 y C4 un paciente con glomerulonefritis por C3?",
+    "opciones": [
+      "1. Normal.",
+      "2. Altos.",
+      "3. Bajos.",
+      "4. C4 alto y C3 bajo."
+    ],
+    "respuesta": "1",
+    "comentario": "los pacientes con crioglobulinemia o lupus eritematoso sistémico tienen niveles bajos de C4 y C3 porque estas enfermedades autoinmunes activan la vía clásica. Por el contrario, la glomerulonefritis C3 activa la vía alternativa, que no utiliza C2 o C4 para formar la convertasa C3; por tanto, los niveles de C2 y C4 suelen ser normales."
+  },
+  {
+    "número": "96",
+    "pregunta": "¿Cuál es el número de grados de libertad de un sistema formado por etanol y agua, ambos en estado líquido y en coexistencia con su fase vapor?",
+    "opciones": [
+      "1. 0.",
+      "2. 1.",
+      "3. 2.",
+      "4. 3."
+    ],
+    "respuesta": "3",
+    "comentario": "según la regla de fases de Gibbs, L = C - F + 2. El número de componentes es 2 y el número de fases es 2 (líquido y vapor, puesto a que el agua y el alcohol se mezclan formando una sola fase líquida). Por tanto, L = 2 - 2 + 2 = 2."
+  },
+  {
+    "número": "97",
+    "pregunta": "La filoquinona es el antídoto de",
+    "opciones": [
+      "1. Triflusal.",
+      "2. Acenocumarol.",
+      "3. Bemiparina.",
+      "4. Dabigatrán."
+    ],
+    "respuesta": "2",
+    "comentario": "el antídoto de los anticoagulantes orales es la Vitamina K: vitamina ’ = filoquinona, vitamina ’ ( * = metilnaftoquinona. La dosis de anticoagulante oral se individualiza según el resultado del tiempo de protrombina, un test de coagulación. A mayor tiempo de protrombina (INR) o menor índice de Quick, la anticoagulación es mayor."
+  },
+  {
+    "número": "98",
+    "pregunta": "No es un expansor plasmático",
+    "opciones": [
+      "1. Hidroxietil-almidón.",
+      "2. Farmagel.",
+      "3. Dextrano 40.",
+      "4. Fisiogel."
+    ],
+    "respuesta": "2",
+    "comentario": "el hidroxietil-almidón, dextranos 40 y 70 y gelatinas (hamacel, plasmagel, fisiogel) son moléculas de elevado peso molecular que ejercen el efecto coleidosmótico necesario para asegurar el volúmen plasmático adecuado y así garantizar la perfusión tisular. Tienen una viscosidad y una presión coleidosmótica similares a la del plasma. Se utilizan para restituir temporalmente la volemia."
+  },
+  {
+    "número": "99",
+    "pregunta": "El flujo electroosmótico",
+    "opciones": [
+      "1. Resulta de la ionización que sufren los medios de soporte de algunas electroforesis. Los medios de soporte adquieren cargas negativas. Estos aniones se rodean de cationes, que migran hacia el ánodo desplazando a su vez el disolvente hacia el ánodo.",
+      "2. Resulta de la ionización que sufren los medios de soporte de algunas electroforesis. Los medios de soporte adquieren cargas negativas. Estos aniones se rodean de cationes, que migran hacia el cátodo desplazando a su vez el disolvente hacia el cátodo.",
+      "3. Resulta de la ionización que sufren los medios de soporte de algunas electroforesis. Los medios de soporte adquieren cargas positivas. Estos cationes se rodean de aniones, que migran hacia el cátodo desplazando a su vez el disolvente hacia el cátodo.",
+      "4. Resulta de la ionización que sufren los medios de soporte de algunas electroforesis. Los medios de soporte adquieren cargas positivas. Estos cationes se rodean de aniones, que migran hacia el ánodo desplazando a su vez el disolvente hacia el ánodo."
+    ],
+    "respuesta": "2",
+    "comentario": "este flujo resulta de la ionización (cargas negativas) que sufren los medios de soporte de algunos tipos de electroforesis. Estos aniones se van a ver rodeados por cationes, que en el seno del campo eléctrico aplicado en la electroforesis van a migrar hacia el cátodo, arrastrando a su paso el disolvente en el que esos cationes están solvatados."
+  },
+  {
+    "número": "100",
+    "pregunta": "¿Cuál de estas características no es una ventaja de las formas farmacéuticas líquidas orales?",
+    "opciones": [
+      "1. Presenta una mayor facilidad para dosificar.",
+      "2. Presenta un menor efecto irritante sobre la mucosa gástrica",
+      "3. Aumenta la biodisponibilidad frente a comprimidos.",
+      "4. Ayuda a corregir las características organolépticas desagradable."
+    ],
+    "respuesta": "4",
+    "comentario": "para corregir las características organolépticas se emplean comprimidos o cápsulas, no formas farmacéuticas orales. El resto de las características si son propias ventajas: la facilidad de dosificación, el menor efecto sobre la mucosa gástrica y la mayor biodisponibilidad al no depender de la disolución propia del fármaco."
+  },
+  {
+    "número": "101",
+    "pregunta": "¿Cuál de los siguientes microorganismos no está incluido en el acrónimo ESKAPE",
+    "opciones": [
+      "1. Enterococcus faecium.",
+      "2. Klebsiella pneumoniae.",
+      "3. Pseudomonas aeruginosa.",
+      "4. Escherichia coli."
+    ],
+    "respuesta": "4",
+    "comentario": "ESKAPE es un acrónimo que comprende los nombres científicos de 6 patógenos bacterianos altamente virulentos y resistentes a los antibióticos: Enterococcus faecium, Sthaphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa y Enterobacter spp. Este grupo de bacterias se caracteriza por poder evadirse o “escaparse” de los antibióticos de uso común debido a su creciente resistencia a múltiples fármacos (MDR)."
+  },
+  {
+    "número": "102",
+    "pregunta": "Respecto a baclofeno, indique la respuesta correcta",
+    "opciones": [
+      "1. Es un derivado hidrofílico de GABA.",
+      "2. Es un agonista estereoselectivo del receptor GABA . A",
+      "3. Presenta actividad analgésica.",
+      "4. Se emplea como antiespástico en pacientes con esclerosis múltiple."
+    ],
+    "respuesta": "3",
+    "comentario": "baclofeno es un derivado lipofílico de GABA, agonista estereoselectivo del receptor GABA . B Además de emplearse como antiespástico en pacientes con esclerosis múltiple y tetrapléjicos con lesiones medulares por traumatismo, se puede emplear en la neuralgia del trigémino por sus propiedades analgésicas."
+  },
+  {
+    "número": "103",
+    "pregunta": "Los acúmulos de nódulos linfoides del íleon se denominan",
+    "opciones": [
+      "1. Glándulas de Brunner.",
+      "2. Placas de Peyer.",
+      "3. Células de Paneth.",
+      "4. Criptas de Lieberkühn."
+    ],
+    "respuesta": "2",
+    "comentario": "las placas de Peyer están formadas por folículos linfoides (agregado o conjunto de células linfoides sin estructura definida). Las glándulas de Brunner constituyen acinos glandulares secretores de mucina. Las células de Paneth son células epiteliales situadas en las criptas de Lieberkühn que secretan sustancias antibacterianas a hacia la luz del intestino. Las criptas de Lieberkühn son glándulas situadas en el intestino delgado que secretan enzimas de diversos tipos."
+  },
+  {
+    "número": "104",
+    "pregunta": "¿Cuál de los siguientes elementos químicos está relacionado con la generación de radicales libres en el organismo mediante la reacción de Fenton?",
+    "opciones": [
+      "1. Hierro.",
+      "2. Selenio.",
+      "3. Zinc.",
+      "4. Cloro."
+    ],
+    "respuesta": "1",
+    "comentario": "el hierro es un oligoelemento esencial en el ser humano (mayoritario en hemoglobina) que participa en la reacción de Fenton, reacción redox que genera radicales libres oxigénicos (RTO) o especies reactivas de oxígenos (ROS) altamente reactivos como el radical hidroxilo. Estos ROS causan daño oxidativo a las células y tejidos, destruyendo las membranas celulares (bicapas lipídicas) y alterando las bases nitrogenadas, causando enfermedades como el cáncer y enfermedades cardiovasculares."
+  },
+  {
+    "número": "105",
+    "pregunta": "Es correcto en relación a la β-oxidación y lipogénesis del ácido palmítico (16:0)",
+    "opciones": [
+      "1. En la β-oxidación los intermediarios están unidos a ACP, mientras que los intermediarios de la lipogénesis lo están al CoA.",
+      "2. El malonil-CoA sintetizado por la acetil-CoA carboxilasa, actúa como un inhibidor de la β-oxidación.",
+      "3. La β-cetoacil reductasa consume NADH, mientras que la 3-L-hidroxiacil-CoA deshidrogenasa consume NADPH.",
+      "4. En ambas rutas metabólicas, la última reacción está catalizada por la palmitoil tioesteresa."
+    ],
+    "respuesta": "2",
+    "comentario": "β-oxidación (catabolismo) y lipogénesis (anabolismo) son procesos contrapuestos. El malonil- CoA sintetizado por la acetil-CoA carboxilasa (primer paso lipogénesis) actúa como un inhibidor de la β- oxidación (inhibe a la carnitín acil-transferasa-I o CAT-1)."
+  },
+  {
+    "número": "106",
+    "pregunta": "En el proceso de síntesis de una molécula de ADN recombinante",
+    "opciones": [
+      "1. Se requiere de la unión de dos o más fragmentos de enzimas.",
+      "2. Pueden usarse como vectores de clonaje plásmidos, fagos y cromosomas de levadura.",
+      "3. El vector de clonaje puede ser tanto una molécula de ADN como de ARN.",
+      "4. El ADN recombinante es sinónimo de ADN complementario."
+    ],
+    "respuesta": "2",
+    "comentario": "en los procesos de biotecnología e ingeniería genética, los vectores de clonación (plásmidos, fagos, cósmidos, YACS y BACS entre otros) se utilizan para introducir ADN exógeno en una célula huésped. Si este proceso funciona correctamente, se sintetizará ADN recombinante (unión de dos secuencias de ADN provenientes de organismos distintos)."
+  },
+  {
+    "número": "107",
+    "pregunta": "¿Qué efecto puede desencadenar la administración del antídoto flumazenilo en pacientes que han ingerido benzodiacepinas y tienen antecedentes de epilepsia?",
+    "opciones": [
+      "1. Depresión respiratoria.",
+      "2. Hipotensión arterial.",
+      "3. Aumento de la actividad motora.",
+      "4. Estatus epiléptico."
+    ],
+    "respuesta": "4",
+    "comentario": "la administración del antídoto flumazenilo en pacientes que han ingerido benzodiacepinas y tienen antecedentes de epilepsia puede desencadenar un estatus epiléptico. Esto se debe a que, en estos casos, existe una reducción del umbral epileptógeno, es decir, es más fácil que se produzcan convulsiones. La administración del flumazenilo, que es un antagonista de los receptores de benzodiacepinas, puede disminuir aún más este umbral, provocando la aparición de convulsiones generalizadas. Por lo tanto, es importante evitar su uso en pacientes con antecedentes de epilepsia."
+  },
+  {
+    "número": "108",
+    "pregunta": "¿Qué células del sistema inmune median la hipersensibilidad retardada?",
+    "opciones": [
+      "1. Linfocitos T.",
+      "2. Mastocitos.",
+      "3. Linfocitos NK.",
+      "4. Linfocitos B."
+    ],
+    "respuesta": "1",
+    "comentario": "existen 4 tipos de hipersensibilidad con diferentes mecanismos patogénicos. La hipersensibilidad tipo IV o retardada está mediada por la activación de linfocitos T y recibe este nombre debido al tiempo que requieren los linfocitos T para activarse y expandirse clonalmente. Un ejemplo de este tipo de hipersensibilidad es la dermatitis por contacto."
+  },
+  {
+    "número": "109",
+    "pregunta": "El electrodo de quinona/hidroquinona es utilizado para la determinación de",
+    "opciones": [
+      "1. Ca2+.",
+      "2. Cl-.",
+      "3. H+.",
+      "4. OH-."
+    ],
+    "respuesta": "3",
+    "comentario": "el electrodo de quinona/hidroquinona es un par redox utilizado en los electrodos indicadores metálicos para la determinación de H+."
+  },
+  {
+    "número": "110",
+    "pregunta": "¿A qué valor equivalen 2 kcal?",
+    "opciones": [
+      "1. 8368 J.",
+      "2. 8,37 J.",
+      "3. 4,184 J.",
+      "4. 4184 J."
+    ],
+    "respuesta": "1",
+    "comentario": "las conversiones en unidades no son algo muy preguntado, pero el cambio julio-caloría es algo básico. Una caloría equivale a 4,184 J, por lo que 2 kcal equivalen a 8,368 kJ, o lo que es lo mismo, 8368 J."
+  },
+  {
+    "número": "111",
+    "pregunta": "¿Cuál es el fármaco de elección en la profilaxis y tratamiento de la hipertermia y del síndrome neuroléptico maligno?",
+    "opciones": [
+      "1. Tizanidina.",
+      "2. Dantroleno.",
+      "3. Bromocriptina.",
+      "4. Diazepam."
+    ],
+    "respuesta": "2",
+    "comentario": "dantroleno es el tratamiento de elección. Bromocriptina también puede emplearse para ayudar a recuperar el tono dopaminérgico perdido. Diazepam también puede usarse en estas situaciones para controlar la agitación. Tizanidina es un agonista α central empleado en espasmos musculares o como 2 antiespástico en esclerosis múltiple, mielopatía crónica, trastornos degenerativos de la médula espinal, accidentes cerebrovasculares y parálisis cerebral."
+  },
+  {
+    "número": "112",
+    "pregunta": "¿Cuál de las siguientes reacciones adversas no es producida por los derivados ergóticos?",
+    "opciones": [
+      "1. Náuseas y vómitos.",
+      "2. Alteraciones psiquiátricas.",
+      "3. Hipertensión.",
+      "4. Valvulopatía cardíaca."
+    ],
+    "respuesta": "3",
+    "comentario": "los derivados ergóticos producen numerosas reacciones adversas similares a levodopa, como náuseas y vómitos, alteraciones psiquiátricas e hipotensión postural."
+  },
+  {
+    "número": "113",
+    "pregunta": "¿Cuál de los siguientes usos terapéuticos de apomorfina no es correcto?",
+    "opciones": [
+      "1. Tratamiento de la Enfermedad de Parkinson.",
+      "2. Tratamiento de la disfunción eréctil.",
+      "3. Inducción del vómito en intoxicaciones.",
+      "4. Tratamiento de la neuralgia del trigémino."
+    ],
+    "respuesta": "4",
+    "comentario": "el sistema dopaminérgico tiene gran implicación en el deseo sexual y las erecciones, por lo que apomorfina, como agonista dopaminérgico, puede emplearse en el tratamiento de la disfunción eréctil. Además, tiene intensa actividad emetizante, ya que estimula la zona quimiorreceptora del gatillo. Es por ello por lo que se emplea como inductor del vómito en intoxicaciones agudas graves y de riesgo vital de pacientes que han ingerido recientemente un producto tóxico a dosis potencialmente mortales."
+  },
+  {
+    "número": "114",
+    "pregunta": "Señale la respuesta INCORRECTA. Son fármacos con acción neuroprotectora",
+    "opciones": [
+      "1. Cinarizina.",
+      "2. Flunarizina.",
+      "3. Nimodipino.",
+      "4. Clevidipino."
+    ],
+    "respuesta": "4",
+    "comentario": "Flunarizina, cinarizina y nimodipino son fármacos antagonistas del calcio con acción neuroprotectora. Cinarizina y flunarizina se emplean en la profilaxis de la migraña; y nimodipino en la prevención del deterioro neurológico ocasionado por vasoespasmo cerebral secundario a hemorragia subaracnoidea por rotura de aneurisma."
+  },
+  {
+    "número": "115",
+    "pregunta": "Con respecto a la saliva, señale la respuesta correcta",
+    "opciones": [
+      "1. Las glándulas parótidas secretan casi exclusivamente saliva mucosa.",
+      "2. Los acinos producen una secreción primaria cuya composición iónica es parecida a la del líquido extracelular.",
+      "3. Normalmente, sodio y cloro están en concentraciones mayores que las plasmáticas.",
+      "4. Las concentraciones de potasio y bicarbonato son siempre menores a las plasmáticas."
+    ],
+    "respuesta": "2",
+    "comentario": "en primer lugar, las glándulas parótidas secretan en mayor parte saliva serosa. La composición de la saliva es similar a la del plasma, aunque contiene menos Na+ y Cl- y más HCO - y K+. La respuesta 3 correcta es la 2 ya que, los acinos producen inicialmente una secreción isotónica respecto al plasma, la cual experimenta un intercambio de iones que consiste en la reabsorción activa de Na+ hacia el conducto salival y la secreción activa de K+ hacia la saliva, dándole las características que hemos comentado."
+  },
+  {
+    "número": "116",
+    "pregunta": "¿Cuál de las siguientes magnitudes biológicas NO ve modificada su concentración con el ejercicio intenso?",
+    "opciones": [
+      "1. Creatina cinasa.",
+      "2. Lactato deshidrogenasa.",
+      "3. Leucocitos.",
+      "4. Alanina aminotransferasa."
+    ],
+    "respuesta": "4",
+    "comentario": "la alanina aminotransferasa es una enzima que se encuentra principalmente en el hígado y los riñones cuya concentración no se ve afectada por el ejercicio intenso. La creantina kinasa (CK), Lactato deshidrogenasa (LDH) y el recuento de leucocitos sí pueden verse alterados."
+  },
+  {
+    "número": "117",
+    "pregunta": "¿Cuál de los siguientes emparejamientos entre fármaco y vía de administración es correcta?",
+    "opciones": [
+      "1. Epoprostenol – vía oral.",
+      "2. Tretrostinil – vía inhalatoria.",
+      "3. Beraprost – vía oral.",
+      "4. Iloprost – vía intravenosa."
+    ],
+    "respuesta": "3",
+    "comentario": "epoprostenol se administra por via IV, treprostinil por vía SC o IV e iloprost por vía inhalatoria"
+  },
+  {
+    "número": "118",
+    "pregunta": "¿Cuál es el porcentaje aproximado normal de linfocitos en la sandre de un adulto sano?",
+    "opciones": [
+      "1. 45-75%.",
+      "2. 20-45%.",
+      "3. 2-10%.",
+      "4. 1-5%."
+    ],
+    "respuesta": "2",
+    "comentario": "los linfocitos son los segundos tipos celulares más habituales en la sandre tras los neutrófilos."
+  },
+  {
+    "número": "119",
+    "pregunta": "¿Qué tipo de alteración morfológica se observa en los neutrófilos de un paciente con anemia megaloblástica?",
+    "opciones": [
+      "1. Anomalía de Pelger-Huët.",
+      "2. Hipersegmentación nuclear.",
+      "3. Granulación tóxica.",
+      "4. Cuerpos de Dohle."
+    ],
+    "respuesta": "2",
+    "comentario": "la hipersegmentación nuclear es una característica común en los neutrófilos de pacientes con anemia megaloblástica, que se puede observar como un aumento en el número de lóbulos del núcleo."
+  },
+  {
+    "número": "120",
+    "pregunta": "En relación con tetrabenazina, Indique la respuesta incorrecta",
+    "opciones": [
+      "1. Produce depleción de dopamina, serotonina y noradrenalina en las terminaciones sinápticas.",
+      "2. Se emplea en el tratamiento de los trastornos motores de la corea de Huntington.",
+      "3. Presenta la ventaja de que puede empelarse en pacientes con trastornos psiquiátricos como depresión.",
+      "4. Se administra por vía oral."
+    ],
+    "respuesta": "3",
+    "comentario": "tetrabenazina puede producir cuadros depresivos de forma muy frecuente, por lo que su uso está contraindicado en pacientes con tendencias suicidas o depresión."
+  },
+  {
+    "número": "121",
+    "pregunta": "¿Cuál es la diana y mecanismo de acción del anticuerpo monoclonal rituximab?",
+    "opciones": [
+      "1. CD19. Depleción de linfocitos B.",
+      "2. CD20. Depleción de linfocitos B.",
+      "3. CD22. Depleción de linfocitos B.",
+      "4. CD21. Depleción de linfocitos B."
+    ],
+    "respuesta": "2",
+    "comentario": "el rituximab es un anticuerpo monoclonal dirigido frente al antígeno CD20 presente en la superficie de todos los linfocitos B, excepto algunos plasmablastos y células plasmáticas. Su función consiste en deplecionar los linfocitos B, con el fin de eliminar linfocitos B aberrantes o bien evitar la producción de autoanticuerpos."
+  },
+  {
+    "número": "122",
+    "pregunta": "Cuál de los siguientes agentes se utiliza en las bombas",
+    "opciones": [
+      "1. Gas pimienta.",
+      "2. Lewisita.",
+      "3. Napalm.",
+      "4. Gas sarín."
+    ],
+    "respuesta": "3",
+    "comentario": "el Napalm es un agente incendiario."
+  },
+  {
+    "número": "123",
+    "pregunta": "A partir de que ecuación se podría deducir la constante de equilibrio de reacción de una celda electroquímica",
+    "opciones": [
+      "1. La ecuación de Ilkovic.",
+      "2. La ecuación de Snell",
+      "3. La ecuación de Nernst.",
+      "4. La ley de Faraday."
+    ],
+    "respuesta": "3",
+    "comentario": "la ecuación de Ilkovic relaciona la intensidad de difusión y la concentración de analito. La ecuación de Snell se utiliza en los métodos de refracción para calcular el índice de refracción. La ecuación de Nernst. La ley de Faraday establece que la masa de la sustancia depositada o disuelta es directamente proporcional a la carga total que pasa a través de la celda."
+  },
+  {
+    "número": "124",
+    "pregunta": "Señale el mecanismo de acción principal de tadalafilo:",
+    "opciones": [
+      "1. Inhibidor de la fosfodiesterasa 5.",
+      "2. Agonista de la guanilato ciclasa soluble.",
+      "3. Inhibidor de la fosfodiesterasa 6.",
+      "4. Antagonista del receptor de la endotelina A."
+    ],
+    "respuesta": "1",
+    "comentario": "tadalafilo es un inhibidor de la fosfodiesterasa 5 de los cuerpos cavernosos, enzima responsable de la degradación del GMPc. Tiene indicación para la disfunción eréctil, hipertensión arterial pulmonar e hipertrofia beningna de próstata."
+  },
+  {
+    "número": "125",
+    "pregunta": "¿Qué tipo de células se pueden observar en un frotis sanguíneo de un paciente con síndrome de Chédiak-Higashi?",
+    "opciones": [
+      "1. Neutrófilos con cuerpos de Dohle.",
+      "2. Monocitos con cuerpos de Russell.",
+      "3. Linfocitos con cuerpos de Auer.",
+      "4. Neutrófilos con alteración de quimiotaxis."
+    ],
+    "respuesta": "4",
+    "comentario": "el síndrome de Chédiak-Higashi se caracteriza por una alteración hereditaria en la quimiotaxis de los neutrófilos, lo que puede conducir a un aumento de las infecciones en los pacientes afectados."
+  },
+  {
+    "número": "126",
+    "pregunta": "Debemos iniciar tratamiento antihipertensivo a una mujer embarazada de 20 semanas. ¿Qué fármaco es de elección?",
+    "opciones": [
+      "1. Nifedipino.",
+      "2. Candesartán.",
+      "3. Propranolol.",
+      "4. Hidroclorotiazida."
+    ],
+    "respuesta": "1",
+    "comentario": "son tratamientos antihipertensivos de elección en el embarazo: hidralazina, metildopa, labetalol, nifedipino. Evitar el uso de IECA, ARAII o antagonistas de la aldosterona por un potencial efecto teratogénico."
+  },
+  {
+    "número": "127",
+    "pregunta": "Señale cuál de los siguientes métodos NO corresponde a un método de ajuste de la isotonía en una solución inyectable",
+    "opciones": [
+      "1. Método del factor osmótico.",
+      "2. Método de la dilución.",
+      "3. Método tonométrico en cloruro de sodio.",
+      "4. Método ebulloscópico."
+    ],
+    "respuesta": "3",
+    "comentario": "los métodos definidos para el ajuste de la isotonía de una solución inyectable son: 1) Método del factor osmótico; 2) Método crioscópico; 3) Método del equivalente isotónico o tonométrico en cloruro de sodio; 4) Método de la dilución."
+  },
+  {
+    "número": "128",
+    "pregunta": "¿Qué manifestación clínica es la más frecuente en pacientes intoxicados con litio?",
+    "opciones": [
+      "1. Apatía y letargia.",
+      "2. Dolor abdominal y fiebre.",
+      "3. Confusión y ataxia.",
+      "4. Arritmias cardiacas."
+    ],
+    "respuesta": "3",
+    "comentario": "pregunta que puede tener un poco de trampa. La intoxicación moderada por litio se caracteriza por la afectación del sistema nervioso central, lo que puede manifestarse como confusión y ataxia. Estos síntomas son indicativos de un efecto nocivo del litio en el cerebro y el sistema nervioso, por lo que son considerados como las principales manifestaciones clínicas de la intoxicación por este medicamento. Aunque las alteraciones electrocardiográficas también suceden, no son las más frecuentes."
+  },
+  {
+    "número": "129",
+    "pregunta": "Las pociones, una forma farmacéutica, son",
+    "opciones": [
+      "1. Unas formas farmacéuticas líquidas añadidas en ciertas soluciones intravenosas para ajustar su presión osmótica ya sea este superior o inferior.",
+      "2. Unas soluciones orales edulcoradas de baja concentración de principio activo.",
+      "3. Unas emulsiones orales de elevada potencia, por lo que suelen dosificarse en cucharadas.",
+      "4. La antigua forma de denominar los elixires, cuando estos contenían más de 35 % de alcohol."
+    ],
+    "respuesta": "2",
+    "comentario": "si bien las pociones son formas farmacéuticas que suelen dosificarse en cucharadas no son emulsiones si no que son soluciones orales edulcoradas con baja concentración de principio activo. Para ajustar la presión osmótica se utilizan otras soluciones de concentración conocida de glucosa, sales u otros compuestos."
+  },
+  {
+    "número": "130",
+    "pregunta": "La terapia por células CAR-T es de gran utilidad en el tratamiento de ciertos cánceres hematológicos. ¿Contra qué tipo de célula irá mediada la citotoxicidad de una terapia CAR-T dirigida al antígeno CD19?",
+    "opciones": [
+      "1. Linfocitos T.",
+      "2. Linfocitos B.",
+      "3. Células endoteliales.",
+      "4. Células NK."
+    ],
+    "respuesta": "2",
+    "comentario": "el CD19 es una proteína transmembrana de células de linaje B, por lo que terapias CAR-T dirigidas contra CD19 están aprobadas para ciertos tipos de leucemias y linfomas de estirpe B refractarios."
+  },
+  {
+    "número": "131",
+    "pregunta": "En nefelometría, la dispersión tipo Rayleigh-Debye se origina con partículas de diámetro",
+    "opciones": [
+      "1. Inferior a la λ de la REM.",
+      "2. Similar a la λ de la REM.",
+      "3. Superior a la λ de la REM.",
+      "4. El doble de la λ de la REM."
+    ],
+    "respuesta": "2",
+    "comentario": "la primera opción sería la dispersión tipo Rayleigh; la tercera la dispersión de tipo Mie o Tyndall."
+  },
+  {
+    "número": "132",
+    "pregunta": "Señale la incorrecta sobre Blastocystis hominis",
+    "opciones": [
+      "1. Tiene una distribución mundial.",
+      "2. Siempre hay que tratarlo.",
+      "3. Se transmite por vía fecal-oral.",
+      "4. Su tratamiento es con metronidazol."
+    ],
+    "respuesta": "2",
+    "comentario": "generalmente produce infecciones asintomáticas, con lo cual su patogenicidad y el tratamiento están en entredicho. En raras ocasiones puede producir diarrea y flatulencias. El resto de opciones son correctas."
+  },
+  {
+    "número": "133",
+    "pregunta": "¿Qué ventaja ofrece el clopidogrel frente a la ticlopidina?",
+    "opciones": [
+      "1. La inhibición selectiva de la unión del ADP a su receptor plaquetario (P2Y12).",
+      "2. No es mielotóxico.",
+      "3. No se asocia al desarrollo de hemofilia adquirida.",
+      "4. No presenta interacciones con otros fármacos."
+    ],
+    "respuesta": "2",
+    "comentario": "el clopidogrel es un derivado de la ticlopidina, por lo que el mecanismo de acción es el mismo. Es un profármaco más potente y no mielotóxico, sin embargo, su uso se ha asociado al desarrollo de hemofilia adquirida. Se metaboliza a través del citocromo # , por lo que la administración concomitante con omeprazol $%& y esomeprazol (inhibidores del metabolismo) reducen la formación de su metabolito activo, y por lo tanto reducen su efecto farmacológico."
+  },
+  {
+    "número": "134",
+    "pregunta": "¿Cuál de los siguientes antiepilépticos presenta cinética no lineal dosis dependiente?",
+    "opciones": [
+      "1. Primidona.",
+      "2. Vigabatrina.",
+      "3. Topiramato.",
+      "4. Fenitoína."
+    ],
+    "respuesta": "4",
+    "comentario": "fenitoína presenta cinética no lineal dosis dependiente, debido a la saturación del metabolismo."
+  },
+  {
+    "número": "135",
+    "pregunta": "¿Qué característica morfológica es típica de los eosinófilos?",
+    "opciones": [
+      "1. Núcleo segmentado en 3-5 lóbulos.",
+      "2. Núcleo bilobulado.",
+      "3. Citoplasma con gránulos basófilos.",
+      "4. Alta relación núcleo/citoplasma."
+    ],
+    "respuesta": "2",
+    "comentario": "los eosinófilos se caracterizan por tener un núcleo bilobulado y un citoplasma con gránulos eosinófilos de color anaranjado, y desempeñan un papel importante en reacciones alérgicas y la destrucción de parásitos."
+  },
+  {
+    "número": "136",
+    "pregunta": "¿Cuál es el propósito de medir el tiempo de protrombina (TP)?",
+    "opciones": [
+      "1. Evaluar la función endotelial.",
+      "2. Diagnosticar deficiencias de la vía intrínseca.",
+      "3. Evaluar la eficacia de los anticoagulantes orales.",
+      "4. Monitorizar niveles de plasminógeno."
+    ],
+    "respuesta": "3",
+    "comentario": "el tiempo de protrombina es utilizado principalmente para evaluar la eficacia de los anticoagulantes orales como la warfarina y para monitorear la función de la vía extrínseca y común de la coagulación."
+  },
+  {
+    "número": "137",
+    "pregunta": "¿Qué son los cristales verdes de la muerte que pueden aparecer en los neutrófilos?",
+    "opciones": [
+      "1. Inclusiones verdes relacionadas con daño hepático agudo y asociadas a elevada mortalidad.",
+      "2. Son cristales que indican una infección viral activa.",
+      "3. Corresponden a inclusiones que contienen mieloperoxidasa, indicativas de apoptosis neutrofílica.",
+      "4. Son formaciones de urato que indican gota aguda."
+    ],
+    "respuesta": "1",
+    "comentario": "están compuestos de lipofuscina liberada por células necróticas del parénquima hepático y aparecen en fallo hepático agudo."
+  },
+  {
+    "número": "138",
+    "pregunta": "Están contraindicados en el tratamiento de la angina de reposo",
+    "opciones": [
+      "1. Bisoprolol.",
+      "2. Nifedipino.",
+      "3. Nitroglicerina sublingual.",
+      "4. Diltiazem."
+    ],
+    "respuesta": "1",
+    "comentario": "la angina de reposo ocurre de forma espontánea, sin relación con esfuerzos. Suele deberse a un vasoespasmo coronario. Los β-bloqueantes están contraindicados, mientras que los nitratos y los antagonistas del calcio están indicados en la angina de reposo."
+  },
+  {
+    "número": "139",
+    "pregunta": "Algunas células del corazón son capaces de generar PA propagados de forma automática. Las células automáticas de la fase 4 del PA no es isoeléctrico, sino que presenta una lenta despolarización. Entre los mecanismos implicados en ello, seleccione aquél que no lo es",
+    "opciones": [
+      "1. Activación durante la repolarización de un corriente marcapasos If que facilita la entrada de Na+.",
+      "2. Activación de las corrientes de salida de K+.",
+      "3. Activación de dos corrientes de entrada de calcio tipo L y T y de la I . Na",
+      "4. Desactivación durante la repolarización de un corriente marcapasos If que facilita la entrada de Na+."
+    ],
+    "respuesta": "4",
+    "comentario": "la razón es que el corriente marcapasos If, que facilita la entrada de Na+, no se desactiva durante la repolarización, sino que contribuye a la despolarización al facilitar la entrada de Na+ durante la fase 4 del potencial de acción. Por lo tanto, la desactivación de esta corriente no sería un mecanismo implicado en la generación de potenciales de acción automáticos."
+  },
+  {
+    "número": "140",
+    "pregunta": "¿Cuál es el tipo de crisis epiléptica caracterizada por una contracción sostenida de toda la musculatura seguida de contracciones rápidas?",
+    "opciones": [
+      "1. Crisis parciales.",
+      "2. Crisis de ausencia.",
+      "3. Crisis generalizadas tónico-clónicas.",
+      "4. Las opciones 1 y 3 son correctas."
+    ],
+    "respuesta": "3",
+    "comentario": "las crisis generalizadas tónico-clónicas se caracterizan por la fase tónica, con contracciones sostenidas de toda la musculatura, seguida de la fase clónica con contracciones rápidas, junto con manifestaciones vegetativas."
+  },
+  {
+    "número": "141",
+    "pregunta": "Indique el excipiente que presenta peores propiedades de flujo",
+    "opciones": [
+      "1. Índice de Hausner = 1,7.",
+      "2. Índice de Hausner = 0,2.",
+      "3. Índice de Hausner = 0,8.",
+      "4. Índice de Hausner = 1."
+    ],
+    "respuesta": "1",
+    "comentario": "Cuanto mayor es el IH, peor serán las propiedades de flujo."
+  },
+  {
+    "número": "142",
+    "pregunta": "La equinácea es una planta herbácea utilizada como estimulante del sistema inmunitario para combatir infecciones. Dentro de sus componentes, presentan la tusilagina cuya estructura química es",
+    "opciones": [
+      "1. Un ácido fenólico.",
+      "2. De tipo flavonoide.",
+      "3. Un éster del ácido cafeico.",
+      "4. Un alcaloide pirrolizidínico."
+    ],
+    "respuesta": "4",
+    "comentario": "la equinácea (género Echinaceae) es una planta originaria de Estados Unidos que presenta como droga las raíces y las sumidades floridas. Dentro de los componentes químicos que presenta ácidos fenólicos libres, ésteres del ácido cafeico, flavonoides, alcaloides pirrolizínicos, poliínos e isobutilamidas. La tusilagina e isotusilagina se encuentran dentro de la estructura de alcaloides pirrolizidínicos."
+  },
+  {
+    "número": "143",
+    "pregunta": "Los cuerpos plásticos (indique la opción INCORRECTA)",
+    "opciones": [
+      "1. Estos materiales no muestran flujo a fuerzas de cizalla por debajo de un umbral específico conocido como \"punto de ruptura Bingham\".",
+      "2. Una vez que se aplica una fuerza de cizalla que excede el punto de ruptura Bingham, el material comienza a fluir, y su comportamiento a partir de ese momento se asemeja al de un fluido newtoniano.",
+      "3. El fluido adopta un comportamiento no newtoniano, conocido como cuerpos Casson.",
+      "4. Las pomadas y las cremas manifiestan este tipo de comportamiento."
+    ],
+    "respuesta": "3",
+    "comentario": "se trata de materiales con una estructura tridimensional lo suficientemente robusta como para resistir el flujo hasta que se apliquen fuerzas de cizalla que superen un valor específico. A partir de este punto, la estructura colapsa y el material comienza a fluir, independientemente de la velocidad de cizalla, y se caracteriza por tener una viscosidad plástica constante, conocidos como cuerpos Bingham. En muchos casos, la ruptura estructural es gradual, y durante este proceso, la viscosidad diferencial disminuye. Esto se debe a que las unidades que fluyen pueden volverse más pequeñas, más compactas o mejor orientadas en la dirección del flujo a medida que aumenta la velocidad de cizalla. Después de este proceso, el fluido adopta un comportamiento newtoniano, conocidos como cuerpos Casson."
+  },
+  {
+    "número": "144",
+    "pregunta": "Señale la incorrecta sobre Naegleria fowleri",
+    "opciones": [
+      "1. Solo afecta a inmunodeprimidos.",
+      "2. Se contrae en lagos y charcas de agua dulce templadas.",
+      "3. Su ciclo biológico tiene tres etapas: el trofozoito infeccioso, una etapa flagelada transitoria que no se divide y la etapa quística.",
+      "4. Tiene una mortalidad de un 99%."
+    ],
+    "respuesta": "1",
+    "comentario": "es capaz de afectar a inmunocompetentes también produciendo la meningoencefalitis amebiana primaria. El resto de las respuestas son todas correctas."
+  },
+  {
+    "número": "145",
+    "pregunta": "La estructura del furano es análoga a la del pirrol, excepto que el NH ha sido sustituido por un",
+    "opciones": [
+      "1. S.",
+      "2. C.",
+      "3. O.",
+      "4. P."
+    ],
+    "respuesta": "3",
+    "comentario": "es buen momento para repasar los nombres de los heterociclos."
+  },
+  {
+    "número": "146",
+    "pregunta": "¿Qué porcentaje del fármaco amitriptilina se excreta por orina de forma inalterada?",
+    "opciones": [
+      "1. 15 %.",
+      "2. 10 %.",
+      "3. 5 %.",
+      "4. 1 %."
+    ],
+    "respuesta": "3",
+    "comentario": "la amitriptilina, un antidepresivo tricíclico, se metaboliza en el hígado a varios metabolitos, algunos de los cuales son farmacológicamente activos y otros no. Estos metabolitos se excretan principalmente a través de la orina. Sin embargo, solo una pequeña parte de la dosis de amitriptilina original se excreta de manera inalterada en la orina, y esta cantidad suele ser alrededor del 5%, pudiendo verse modificado por algunos factores tales como la función renal, la dosis administrada y otros factores individuales."
+  },
+  {
+    "número": "147",
+    "pregunta": "¿Cuál de las siguientes cuestiones sobre Giardia lamblia es incorrecta?",
+    "opciones": [
+      "1. El trofozoíto coloniza principalmente el yeyuno.",
+      "2. Una gran parte de los infectados son asintomáticos.",
+      "3. Tiene una distribución mundial.",
+      "4. El diagnóstico mediante inmunocromatografía es poco sensible y específico."
+    ],
+    "respuesta": "4",
+    "comentario": "el diagnóstico mediante inmunocromatografía es muy sensible y específico superando el 90%. El resto de las respuestas son correctas."
+  },
+  {
+    "número": "148",
+    "pregunta": "¿Qué fármaco inhibe irreversiblemente la enzima mediante un mecanismo de acetilación?",
+    "opciones": [
+      "1. Molsidomina.",
+      "2. Carbasalato.",
+      "3. Cabergolina.",
+      "4. Cimetidina."
+    ],
+    "respuesta": "2",
+    "comentario": "tanto el ácido acetilsalicílico como el carbasalato (=sal cálcica del ácido acetilsalicílico) inhiben irreversiblemente la ciclooxigenasa (COX-1) por acetilación del enzima, inhibiendo así la producción de tromboxanos."
+  },
+  {
+    "número": "149",
+    "pregunta": "Indique el binomio incorrecto fármaco-rango terapéutico",
+    "opciones": [
+      "1. Fenobarbital: 10-40 µg/ml.",
+      "2. Carbamazepina: 20-30 µg/ml.",
+      "3. Fenitoína: 10-20 µg/ml.",
+      "4. Ácido valproico: 50-100 µg/ml."
+    ],
+    "respuesta": "2",
+    "comentario": "el rango terapéutico de carbamazepina es de 4-12 µg/ml."
+  },
+  {
+    "número": "150",
+    "pregunta": "¿Cuál de los siguientes fármacos se emplea en niños con síndrome de Dravet?",
+    "opciones": [
+      "1. Tiagabina.",
+      "2. Estiripentol.",
+      "3. Vigabatrina.",
+      "4. Felbamato."
+    ],
+    "respuesta": "2",
+    "comentario": "tiagabina y vigabatrina se emplean como coadyuvantes en crisis parciales refractarias. Vigabatrina también puede emplearse en el síndrome de Lennox-Gastaut y en el síndrome de West. Felbamato se emplea como alternativa en las crisis parciales refractarias a otros antiepilépticos y en el síndrome de Lennox-Gastaut refractario."
+  },
+  {
+    "número": "151",
+    "pregunta": "Los límites de presión de funcionamiento para cromatografía de líquidos (HPLC) y cromatografía de gases (CG) respectivamente son",
+    "opciones": [
+      "1. 1000-6000 psi para ambas técnicas cromatográficas.",
+      "2. 5800-7000 psi y 10-50 psi.",
+      "3. 10-50 psi para ambas técnicas cromatográficas.",
+      "4. 300-350 psi y 20-35 psi."
+    ],
+    "respuesta": "2",
+    "comentario": "los límites de presión de funcionamiento para los sistemas de HPLC regulares (no UHPLC) suelen estar en el rango de 5800 a 7000 psi (400 a 500 bar), que suele ser apropiado para el hardware de la columna de HPLC y también para el material de relleno. En el caso de cromatografía de gases (CG) debe ser entre 10 y 50 psi para un correcto funcionamiento."
+  },
+  {
+    "número": "152",
+    "pregunta": "¿Cuál de las siguientes hormonas regula la función genética e interactúa con los receptores dentro de las células?",
+    "opciones": [
+      "1. Hormona antidiurética.",
+      "2. Hormona del crecimiento.",
+      "3. Hormona tiroidea.",
+      "4. Hormona liberadora de tirotropina."
+    ],
+    "respuesta": "3",
+    "comentario": "los receptores intracelulares interactúan con hormonas que regulan la función genética (p. ej., corticosteroides, vitamina D, hormona tiroidea). 1: La hormona antidiurética (vasopresina) actúa en la periferia para regular el equilibrio de agua. 2 y 4: Los receptores ubicados sobre la superficie celular se unen con hormonas que regulan la actividad de enzimas o afectan canales iónicos (p. ej., hormona del crecimiento, hormona liberadora de tirotropina)."
+  },
+  {
+    "número": "153",
+    "pregunta": "¿Cuál de las siguientes no es una función de las células de la neuroglia?",
+    "opciones": [
+      "1. Generar impulsos eléctricos.",
+      "2. Eliminar sustancias de desecho del metabolismo neuronal.",
+      "3. Producir mielina.",
+      "4. Regular el ambiente extracelular."
+    ],
+    "respuesta": "1",
+    "comentario": "las células de la neuroglia, también llamadas células de sostén, no tienen la capacidad de generar impulsos eléctricos, esa función es exclusiva de las neuronas. En el SNC se distinguen los siguientes tipos de células neurogliales: astrocitos, oligodendrocitos, microglía y ependimarias."
+  },
+  {
+    "número": "154",
+    "pregunta": "A continuación, se describe la duración del periodo refractario absoluto del músculo cardiaco y células nerviosas respectivamente. Señale la respuesta correcta",
+    "opciones": [
+      "1. 20-40 ms y 80-100 ms, respectivamente.",
+      "2. 0,1-1 ms y 200-350 ms, respectivamente.",
+      "3. 80-100 ms y 20-40 ms, respectivamente.",
+      "4. 200-350 ms y 0,1-1 ms, respectivamente."
+    ],
+    "respuesta": "4",
+    "comentario": "el músculo cardiaco presenta un periodo refractario absoluto muy largo de unos 200-350 ms siendo característico el potencial en meseta; mientras que las células nerviosas presentan un PRA corto de 0,1-1 ms siendo característico el potencial en forma de espiga."
+  },
+  {
+    "número": "155",
+    "pregunta": "¿Qué técnica se utiliza para evaluar el nivel de conciencia?",
+    "opciones": [
+      "1. Escala de Ramsay.",
+      "2. Escala SOFA.",
+      "3. Escala de Glasgow.",
+      "4. Índice de Barthel."
+    ],
+    "respuesta": "3",
+    "comentario": "la escala de Glasgow evalúa el nivel de conciencia. A menor puntuación, mayor profundidad del coma y peor pronóstico."
+  },
+  {
+    "número": "156",
+    "pregunta": "¿Cuál de los siguientes fármacos puede producir crisis de porfiria?",
+    "opciones": [
+      "1. Fenobarbital.",
+      "2. Carbamazepina.",
+      "3. Etosuximida.",
+      "4. Zonisamida."
+    ],
+    "respuesta": "1",
+    "comentario": "fenobarbital puede producir crisis de porfiria en personas predispuestas (debido a la inducción de la síntesis del grupo hemo)."
+  },
+  {
+    "número": "157",
+    "pregunta": "¿Cuáles son las posibles causas de la hipertensión arterial pulmonar (HAP)? Seleccione aquella que no lo es",
+    "opciones": [
+      "1. Aumento del flujo sanguíneo pulmonar por disminución del gasto cardiaco (hipotiroidismo, anemias, etc.).",
+      "2. Aumento de las resistencias por reducción del lecho vascular pulmonar.",
+      "3. Aumento del tono vascular (vasoconstricción) en casos de hipoventilación alveolar.",
+      "4. Aumento de la presión de la aurícula izquierda (estenosis mitral, insuficiencia contráctil, etc.)."
+    ],
+    "respuesta": "1",
+    "comentario": "una de las causas de HAP es debido al aumento del flujo sanguíneo por aumento del GC como es en el caso del hipertiroidismo y en las anemias."
+  },
+  {
+    "número": "158",
+    "pregunta": "¿Cuál de las siguientes hormonas NO es contrarreguladora de la insulina?",
+    "opciones": [
+      "1. Adrenalina.",
+      "2. Cortisol.",
+      "3. Lactógeno placentario.",
+      "4. Tirotropina."
+    ],
+    "respuesta": "4",
+    "comentario": "la tirotropina, también conocida como hormona estimulante de la tiroides, no es una hormona contrarreguladora de la insulina (no tiene un efecto directo sobre los niveles de glucosa en sangre). La adrenalina, liberada en respuesta al estrés, aumenta los niveles de glucosa en sangre al estimular la glucogenólisis y la gluconeogénesis. El cortisol, hormona glucocorticoide, también aumenta los niveles de glucosa en sangre al estimular la gluconeogénesis y reducir la utilización de glucosa por las células. El lactógeno placentario es una hormona producida durante el embarazo que puede generar resistencia a la insulina, aumentando la concentración de glucosa en sangre."
+  },
+  {
+    "número": "159",
+    "pregunta": "En cuanto a la estructura helicoidal de la conformación A y B del ADN bicatenario, ¿qué afirmación es cierta?",
+    "opciones": [
+      "1. Ambas conformaciones presentan una hélice con vuelta a la izquierda (ADN-levógiro).",
+      "2. Ambas conformaciones presentan una hélice con vuelta a la derecha (ADN-dextrógiro).",
+      "3. La conformación A presenta una hélice con vuelta a la derecha (ADN-dextrógiro) y la conformación B presenta una hélice con vuelta a la izquierda (ADN-levógiro).",
+      "4. La conformación A presenta una hélice con vuelta a la izquierda (ADN-levógiro) y la conformación B presenta una hélice con vuelta a la derecha (ADN-dextrógiro)."
+    ],
+    "respuesta": "2",
+    "comentario": "tanto la conformación A como la B del ADN son dextrógiras, lo que significa que las hebras se enrollan entre sí hacia la derecha. Esta es una característica común de la mayoría de las estructuras de ADN en la naturaleza, pero distinta al ADN tipo Z, el cual es levógiro."
+  },
+  {
+    "número": "160",
+    "pregunta": "De los siguientes fármacos empleados en la esclerosis múltiple (EM), indique el binomio fármaco- reacción adversa incorrecto",
+    "opciones": [
+      "1. Alemtuzumab-Enfermedad de Graves.",
+      "2. Dimetilfumarato-Leucoencefalopatía multifocal progresiva.",
+      "3. Cladribina-Alopecia.",
+      "4. Siponimod-Taquicardia."
+    ],
+    "respuesta": "4",
+    "comentario": "el inicio del tratamiento con siponimod produce una disminución transitoria de la frecuencia cardíaca y también puede ir asociado a retrasos en la conducción auriculoventricular. En pacientes cardiópatas, se recomienda realizar un electrocardiograma (ECG) antes de la primera dosis y al final del período de observación (6 horas después de recibir la primera dosis)."
+  },
+  {
+    "número": "161",
+    "pregunta": "Señale la respuesta INCORRECTA. Son fármacos antianginosos",
+    "opciones": [
+      "1. Los nitratos.",
+      "2. Los antagonistas del calcio.",
+      "3. Los diuréticos.",
+      "4. Los beta-bloqueantes."
+    ],
+    "respuesta": "3",
+    "comentario": "los principales grupos de fármacos antianginosos son los nitratos, los beta-bloqueantes y los antagonistas del calcio. No presentan actividad antiálgica, pero suprimen el dolor anginoso y/o previe-nen la aparición de crisis anginosas porque restablecen el equilibrio entre la demanda y la oferta de oxígeno en el miocardio."
+  },
+  {
+    "número": "162",
+    "pregunta": "AR es una paciente que ingresa para tratarse de un linfoma, y tiene un diagnóstico de déficit grave de glucosa 6 fosfato deshidrogenasa. Al revisar su prescripción, usted se encuentra con que uno de los fármacos que recibe presenta especial riesgo de desencadenar una crisis de anemia hemolítica. ¿Cuál es ese fármaco?",
+    "opciones": [
+      "1. Meropenem.",
+      "2. Tramadol.",
+      "3. Rasburicasa.",
+      "4. Bisoprolol."
+    ],
+    "respuesta": "3",
+    "comentario": "la rasburicasa es un medicamento que puede desencadenar anemia hemolítica en pacientes con deficiencia de glucosa-6-fosfato deshidrogenasa (G6PD). La G6PD es una enzima que protege a los glóbulos rojos del estrés oxidativo al generar poder reductor o NADPH (vía de las pentosas fosfato)."
+  },
+  {
+    "número": "163",
+    "pregunta": "¿Cuál es la diana de acción de buntanetap?",
+    "opciones": [
+      "1. α-sinucleína.",
+      "2. β-sinucleína.",
+      "3. μ-sinucleína.",
+      "4. γ-sinucleína."
+    ],
+    "respuesta": "1",
+    "comentario": "buntanetap es un fármaco en investigación para la Enfermedad de Parkinson (EP) que reduce la producción de α-sinucleína. Este tipo de preguntas son muy difíciles, debemos acostumbrarnos a que aparezcan y a lidiar con ellas."
+  },
+  {
+    "número": "164",
+    "pregunta": "La reacción de un halogenuro de alquilo con un compuesto aromático en presencia de un ácido de Lewis se conoce como",
+    "opciones": [
+      "1. Acilación de Friedel-Crafts.",
+      "2. Alquilación de Friedel-Crafts.",
+      "3. Condensación benzoínica.",
+      "4. Reacción aldólica."
+    ],
+    "respuesta": "2",
+    "comentario": "la alquilación de Friedel-Crafts se lleva a cabo utilizando un haluro de alquilo (con un ácido de Lewis de catalizador) o con un alcohol en medio ácido. En ambos casos se forma el carbocatión que actuará como electrófilo y se formarán derivados alquilados."
+  },
+  {
+    "número": "165",
+    "pregunta": "¿Cuál se trata de una mezcla de sacarosa con agua con una saturación superior al 45 %?",
+    "opciones": [
+      "1. Jarabe de glucosa.",
+      "2. Jarabe simple.",
+      "3. Jarabe de azúcar invertido.",
+      "4. Jarabe de sorbitol."
+    ],
+    "respuesta": "2",
+    "comentario": "estas 4 definiciones de los distintos jarabes son importantes y debemos conocerlos: - Jarabe de azúcar invertido: mezcla equimolecular de glucosa y fructosa. - Jarabe simple: mezcla de sacarosa y agua con no menos de un 45 % de sacarosa y normalmente próximo a la saturación. - Jarabe de sorbitol: jarabe utilizado en diabéticos ya que la metabolización del sorbitol a glucosa causa que no se generen picos en los niveles de azúcar. - Jarabe de glucosa: jarabe elaborado a partir de suspensiones acuosas de celulosa sometida a hidrólisis ácida."
+  },
+  {
+    "número": "166",
+    "pregunta": "Es un péptido sintético empleado en la prevención del infarto de miocardio tras sufrir angina de pecho",
+    "opciones": [
+      "1. Cangrelor.",
+      "2. Abcximab.",
+      "3. Epifibátida.",
+      "4. Tirofibán."
+    ],
+    "respuesta": "3",
+    "comentario": "estructuralmente el cangrelor es un análogo del ATP, abcximab un anticuerpo monoclonal quimérico y tirofibán un compuesto no peptídico."
+  },
+  {
+    "número": "167",
+    "pregunta": "La modificación del pH urinario es una técnica muy utilizada para el tratamiento de intoxicaciones medicamentosas, ¿cuál de los siguientes fármacos aumentarán su eliminación en orina básica?",
+    "opciones": [
+      "1. Codeína.",
+      "2. Morfina.",
+      "3. Quinina.",
+      "4. Fenobarbital."
+    ],
+    "respuesta": "4",
+    "comentario": "los fármacos ácidos débiles generarán mayor eliminación en orina básica. El resto de fármacos son bases débiles."
+  },
+  {
+    "número": "168",
+    "pregunta": "¿Cuál de los siguientes procesos de extracción se basa en la utilización de un disolvente supercrítico para obtener extractos de plantas con compuestos activos?",
+    "opciones": [
+      "1. Maceración.",
+      "2. Infusión.",
+      "3. Decocción.",
+      "4. Extracción con CO . 2"
+    ],
+    "respuesta": "4",
+    "comentario": "la extracción con dióxido de carbono (CO ) supercrítico es un proceso utilizado en farmacognosia 2 para obtener extractos de plantas con compuestos activos. De todos los fluidos supercríticos que se conocen y se han podido estudiar, el CO es el más empleado debido a que presenta una baja temperatura crítica 2 (31ºC) y presión (74 bar), no presenta toxicidad, presenta elevada disponibilidad y bajo coste. En este método, el CO se utiliza en estado supercrítico, lo que significa que se encuentra en condiciones de temperatura y 2 presión donde exhibe propiedades intermedias entre un gas y un líquido. Esta técnica es selectiva, eficiente y no deja residuos químicos en el extracto final."
+  },
+  {
+    "número": "169",
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta con respecto al género Neisseria?",
+    "opciones": [
+      "1. Son catalasa y oxidasa negativos.",
+      "2. Todas las especies de Neisseria son patógenas.",
+      "3. Son resistentes a las condiciones ambientales.",
+      "4. El reservorio es humano."
+    ],
+    "respuesta": "4",
+    "comentario": "son catalasa y oxidasa positivos, sólo son patógenas Neisseria meningitidis y Neisseria gonorrhoeae, son bastante sensibles a las condiciones ambientales y nutricionalmente exigentes. Por tanto, única correcta la respuesta 4."
+  },
+  {
+    "número": "170",
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre Shigella spp. es correcta?",
+    "opciones": [
+      "1. Son móviles y producen gas.",
+      "2. Son muy sensibles a las condiciones ambientales.",
+      "3. Todas las especies infectantes son zoonosis.",
+      "4. S. boydii es la más frecuente en países desarrollados."
+    ],
+    "respuesta": "2",
+    "comentario": "las especies de Shigella son inmóviles y no producen gas, el único reservorio que tienen es humano, y es Shigella sonnei la más frecuente en países desarrollados. Por tanto, la correcta es la respuesta 2"
+  },
+  {
+    "número": "171",
+    "pregunta": "¿Cuál de las siguientes características no es típica del síndrome de Lady Windermere?",
+    "opciones": [
+      "1. Afecta fundamentalmente al lóbulo medio y la língula.",
+      "2. Afecta principalmente a hombres de edad avanzada.",
+      "3. Es producida por M. avium-intracellulare.",
+      "4. Afecta a pacientes sin antecedentes de tabaquismo o enfermedad pulmonar."
+    ],
+    "respuesta": "2",
+    "comentario": "todas son características de este síndrome a excepción de que afecta a mujeres de edad avanzada, no tanto a hombres."
+  },
+  {
+    "número": "172",
+    "pregunta": "¿Cuál de los siguientes patógenos adquirido mediante transmisión congénita es causante de los dientes de Hutchinson?",
+    "opciones": [
+      "1. Listeria monocytogenes.",
+      "2. Streptococcus agalactiae.",
+      "3. Neisseria gonorrhoeae.",
+      "4. T.pallidum subesp. pallidum."
+    ],
+    "respuesta": "4",
+    "comentario": "la sífilis congénita puede resultar en diversas anomalías en el recién nacido, incluyendo los dientes de Hutchinson, que consiste en que las personas afectadas tienen dientes más pequeños y más espaciados de lo normal y con muescas en las superficies de mordida."
+  },
+  {
+    "número": "173",
+    "pregunta": "La modificación del pH urinario es una técnica muy utilizada para el tratamiento de intoxicaciones medicamentosas, ¿cuál de los siguientes fármacos aumentarán su eliminación en orina ácida?",
+    "opciones": [
+      "1. Ácido salicílico.",
+      "2. Metotrexato.",
+      "3. Ácido nalidíxico.",
+      "4. Anfetaminas."
+    ],
+    "respuesta": "4",
+    "comentario": "los fármacos básicos débiles generarán mayor eliminación en orina ácida. El resto de fármacos son ácidos débiles."
+  },
+  {
+    "número": "174",
+    "pregunta": "¿Cuál de los siguientes fármacos presenta inhibición de los transportadores de fármacos aniónicos (OAT)?",
+    "opciones": [
+      "1. Probenecid.",
+      "2. Cianina.",
+      "3. Metrotexato.",
+      "4. Tetraetilamonio."
+    ],
+    "respuesta": "1",
+    "comentario": "tanto la cianina como el tetraetilamonio presentan afinidad por el transportador de cationes (OCT) pudiendo generar la inhibición de estos."
+  },
+  {
+    "número": "175",
+    "pregunta": "No es un objetivo de las técnicas de reducción de tamaño de partícula",
+    "opciones": [
+      "1. Facilitar la creación de formas de dosificación con una uniformidad adecuada en el contenido del principio activo.",
+      "2. Disminuir la superficie específica del sólido.",
+      "3. Dotar a las partículas una forma más esférica, lo que facilita su manipulación.",
+      "4. Igualar el tamaño de partícula de los componentes, ayudando a resolver los posibles problemas de segregación."
+    ],
+    "respuesta": "2",
+    "comentario": "la reducción del tamaño de partícula de un sólido pulverulento persigue aumentar la superficie específica. Con ello aumenta la velocidad de disolución del principio activo, aumentamos su biodisponibilidad y conseguimos un mayor efecto terapéutico."
+  },
+  {
+    "número": "176",
+    "pregunta": "Uno de los siguientes molinos actúa por mecanismo de rozamiento e impacto. ¿Cuál?",
+    "opciones": [
+      "1. Molino de martillos.",
+      "2. Molino de cuchillas.",
+      "3. Molino de bolas.",
+      "4. Molino de cilindros."
+    ],
+    "respuesta": "3",
+    "comentario": "los molinos de martillos y los molinos de cuchillas reducen el tamaño de partícula por mecanismos de impacto. El molino de cilindros presenta un mecanismo de reducción por rozamiento."
+  },
+  {
+    "número": "177",
+    "pregunta": "¿De qué forma se puede tratar la intoxicación por anticolinérgicos?",
+    "opciones": [
+      "1. Dimercaprol.",
+      "2. Glucagón.",
+      "3. Fisostigmina.",
+      "4. Acetilcolina."
+    ],
+    "respuesta": "3",
+    "comentario": "la fisostigmina es un antídoto utilizado para tratar la intoxicación por anticolinérgicos. Funciona inhibiendo la enzima acetilcolinesterasa, lo que aumenta la disponibilidad de acetilcolina en el sistema nervioso central y periférico, contrarrestando así los efectos anticolinérgicos. Ayuda a revertir los síntomas tales como delirio, agitación, taquicardia y dilatación de las pupilas que pueden ocurrir con la intoxicación por anticolinérgicos."
+  },
+  {
+    "número": "178",
+    "pregunta": "¿Cuál de las siguientes descripciones sobre la molécula CD1 es correcta?",
+    "opciones": [
+      "1. Estructuralmente se asemejan a las moléculas de MHC de clase II y presenta antígenos glucolipídicos.",
+      "2. Estructuralmente se asemejan a las moléculas de MHC de clase I y presenta antígenos glucolipídicos.",
+      "3. Se expresa en la superficie de linfocitos B y presenta antígenos glucolipídicos.",
+      "4. Existen 6 genes que codifican para CD1."
+    ],
+    "respuesta": "2",
+    "comentario": "la familia CD1 es un conjunto de moléculas que se expresa sobre células dendríticas, monocitos y algunos timocitos. Existen 5 genes. CD1 puede presentar antígenos a células T, como las moléculas del MHC. Morfológicamente se asemejan a las moléculas MHC de clase I, pero funcionalmente actúa como una molécula MHC de clase II. Debido a la región hidrófoba que contiene, permite unirse y presentar antígenos glucolipídicos."
+  },
+  {
+    "número": "179",
+    "pregunta": "¿Qué grupo funcional de los siguientes es prioritario y debe elegirse como función principal según las reglas de nomenclatura sistemática de la IUPAC en una molécula que contenga todos ellos?",
+    "opciones": [
+      "1. Alcohol.",
+      "2. Aldehído.",
+      "3. Éster.",
+      "4. Éter."
+    ],
+    "respuesta": "3",
+    "comentario": "el orden decreciente de prioridad según las reglas de nomenclatura sistemática de la IUPAC es: ácidos carboxílico, ésteres, haluros de ácido, amidas, nitrilos, aldehídos, cetonas, alcoholes, tioles, aminas, iminas."
+  },
+  {
+    "número": "180",
+    "pregunta": "El paso lento de la reacción SN1 involucra la formación de",
+    "opciones": [
+      "1. Un ion.",
+      "2. Dos iones.",
+      "3. Tres iones.",
+      "4. Especies sin carga."
+    ],
+    "respuesta": "2",
+    "comentario": "la pregunta hace referencia a la formación del carbocatión intermedio en la primera etapa de la reacción SN1. R-X à R+ + X- (dos iones)."
+  },
+  {
+    "número": "181",
+    "pregunta": "¿Cuál de las siguientes afirmaciones es FALSA?",
+    "opciones": [
+      "1. La vía de excreción mayoritaria de fármacos es la vía renal.",
+      "2. La filtración glomerular sigue una cinética de primer orden.",
+      "3. La reabsorción tubular recupera más del 99% del agua del ultrafiltrado.",
+      "4. La reabsorción tubular pasiva sigue la ley de Fick según la cual las moléculas más hidrófobas presentan una mayor capacidad de reabsorción."
+    ],
+    "respuesta": "4",
+    "comentario": "justo al contrario. La ley de Fick indica que las moléculas más lipófilas presentarán una mayor capacidad de difusión a través de la membrana lipídica."
+  },
+  {
+    "número": "182",
+    "pregunta": "Entre las consideraciones del manejo de los inhibidores de acetilcolinesterasa y memantina, en la práctica clínica, no se encuentra la siguiente característica",
+    "opciones": [
+      "1. La duración del tratamiento es a largo plazo, en muchos casos durante el resto de la vida del paciente.",
+      "2. Es necesaria la reevaluación periódica de su beneficio clínico.",
+      "3. Su beneficio clínico esperado es limitado.",
+      "4. En un ensayo de retirada, se recomienda su reintroducción en el caso de que el paciente presente un deterioro clínico relevante."
+    ],
+    "respuesta": "1",
+    "comentario": "no existe evidencia sobre la duración óptima de estos fármacos ni de cuándo deben interrumpirse, aunque hay cierto consenso de que la decisión debe ser individualizada. El balance beneficio- riesgo de estos fármacos cambia con el tiempo: cuanto mayor es la duración del tratamiento, mayor probabilidad de que los riesgos superen a los beneficios. Hay fuentes que consideran que la interrupción de los inhibidores de acetilcolinesterasa en pacientes en tratamiento a largo plazo o sin indicación produce un mínimo impacto sobre la cognición, las actividades de la vida diaria, los síntomas neuropsiquiátricos, la carga del cuidador, la calidad de la vida y la mortalidad."
+  },
+  {
+    "número": "183",
+    "pregunta": "¿Cuál de los siguientes fármacos se emplea como elección en las convulsiones febriles en niños?",
+    "opciones": [
+      "1. Fenitoína.",
+      "2. Fenobarbital.",
+      "3. Etosuximida.",
+      "4. Lamotrigina."
+    ],
+    "respuesta": "2",
+    "comentario": "fenobarbital puede emplearse además en crisis generalizadas. Fenitoína se emplea en crisis parciales y en generalizadas. Etosuximida se emplea como alternativa en las ausencias. Lamotrigina se usa en crisis parciales y generalizadas refractarias a otros fármacos."
+  },
+  {
+    "número": "184",
+    "pregunta": "¿Cuál de las siguientes enzimas NO esperaríamos encontrar en un eritrocito?",
+    "opciones": [
+      "1. Lactato deshidrogenasa.",
+      "2. Fosfofructocinasa-1.",
+      "3. Piruvato deshidrogenasa.",
+      "4. Bisfosfoglicerato mutasa."
+    ],
+    "respuesta": "3",
+    "comentario": "el complejo piruvato deshidrogenasa cataliza la conversión de piruvato a Acetil-CoA en la matriz mitocondrial (descarboxilación oxidativa irreversible). Dicho complejo emplea 3 enzimas y 5 cofactores. Los eritrocitos carecen de mitocondrias (y de orgánulos celulares) y, por lo tanto, no tienen piruvato deshidrogenasa."
+  },
+  {
+    "número": "185",
+    "pregunta": "En una muestra de un paciente, nos encontramos con LDH y K+ elevados, y la haptoglobina disminuida. ¿Cuál de las siguientes patologías es más probable?",
+    "opciones": [
+      "1. Déficit de piruvato quinasa.",
+      "2. Síndrome de Lesch-Nyhan.",
+      "3. Síndrome de Hurler.",
+      "4. Hiperpotasemia franca con anemia por insuficiencia renal crónica."
+    ],
+    "respuesta": "1",
+    "comentario": "el déficit de piruvato quinasa (última enzima glucolítica) es causa de anemia hemolítica. Loa hematíes obtienen mayoritariamente la energía en forma de ATP a través de la glucólisis, por lo que el mal funcionamiento de esta vía conlleva su lisis, liberando su contenido (lactato deshidrogenasa o LDH y potasio) a la sangre. La haptoglobina es una proteína que se une a la hemoglobina libre, motivo por el cual se encuentra característicamente disminuida en anemias hemolíticas."
+  },
+  {
+    "número": "186",
+    "pregunta": "Uno de los transportadores que participan en la secreción renal activa es el transportador de aniones (OAT), ¿cuál de los siguientes fármacos presentan secreción tubular activa con la ayuda de este transportador?",
+    "opciones": [
+      "1. Morfina.",
+      "2. Digoxina.",
+      "3. Ampicilina.",
+      "4. Vancomicina."
+    ],
+    "respuesta": "3",
+    "comentario": "el resto son fármacos que tienen mayor especificidad por transportadores de unión a cationes (OCT)."
+  },
+  {
+    "número": "187",
+    "pregunta": "Un transposón o elemento genético transponible es",
+    "opciones": [
+      "1. Un plásmido T4.",
+      "2. Un segmento de ADN que ha sufrido una mutación por desfase.",
+      "3. Un cósmido ligeramente modificado.",
+      "4. Una secuencia de ADN capaz de replicarse e insertar una copia en un lugar distinto del genoma."
+    ],
+    "respuesta": "4",
+    "comentario": "los transposones son secuencias de ADN que pueden cambiar de posición dentro del genoma, proceso llamado transposición. Esto puede causar mutaciones y cambiar el tamaño del genoma, por lo que es un proceso altamente regulado."
+  },
+  {
+    "número": "188",
+    "pregunta": "La formación de un enlace disulfuro entre cadenas polipeptídicas es un ejemplo de estructura",
+    "opciones": [
+      "1. Primaria.",
+      "2. Secundaria.",
+      "3. Terciaria.",
+      "4. Cuaternaria."
+    ],
+    "respuesta": "3",
+    "comentario": "los enlaces disulfuro entre cadenas polipeptídicas contribuyen a la formación de la estructura terciaria de las proteínas. Estos enlaces se forman entre los grupos tiol de los residuos de cisteína."
+  },
+  {
+    "número": "189",
+    "pregunta": "En relación con los genes truncados, ¿qué respuesta es correcta?",
+    "opciones": [
+      "1. Son copias incompletas del gen, por pérdida de una región situada en uno de los extremos (5’ o 3’).",
+      "2. Son genes que presentan poca homología en la secuencia de ADN.",
+      "3. Son las regiones repetitivas de los genes.",
+      "4. Son genes agrupados."
+    ],
+    "respuesta": "1",
+    "comentario": "los genes truncados son versiones más cortas de un gen normal. Pueden ser el resultado de mutaciones que causan la pérdida de una parte del gen. Podrán codificar para proteínas truncadas, las cuales a menudo son afuncionales y están relacionadas con el desarrollo de ciertas enfermedades."
+  },
+  {
+    "número": "190",
+    "pregunta": "Es posible investigar de manera selectiva la línea hereditaria materna mediante marcadores en el",
+    "opciones": [
+      "1. Pseudogén.",
+      "2. Centrómero.",
+      "3. ADN mitocondrial.",
+      "4. ARN de transferencia."
+    ],
+    "respuesta": "3",
+    "comentario": "el ADN mitocondrial se hereda exclusivamente por línea materna (las mitocondrias de los espermatozoides no se transmiten al feto). Por lo tanto, los marcadores en el ADN mitocondrial pueden utilizarse para investigar la línea hereditaria materna."
+  },
+  {
+    "número": "191",
+    "pregunta": "En relación con el trasplante hepático, señale de las siguientes la respuesta CORRECTA",
+    "opciones": [
+      "1. La indicación de trasplante hepático más frecuente en la actualidad es la cirrosis por infección del virus de la hepatitis B (VHB).",
+      "2. Las metástasis hepáticas por cáncer de colon constituyen una indicación aprobada para trasplante hepático.",
+      "3. El sistema MELD es un modelo pronóstico que permite la priorización para el trasplante hepático de los enfermos en lista.",
+      "4. El trasplante hepático sería la mejor opción de tratamiento para un paciente de 45 años con un hepatocarcinoma difuso."
+    ],
+    "respuesta": "3",
+    "comentario": "la indicación de trasplante hepático más frecuente es la infección por VHC (opción 1 incorrecta). El sistema MELD es una escala numérica que se utiliza para valorar la gravedad de una cirrosis hepática y para priorizar a los pacientes en lista de espera de trasplante hepático."
+  },
+  {
+    "número": "192",
+    "pregunta": "¿Cuál de los siguientes fármacos no está indicado en la atrofia muscular espinal (AME) en 5q?",
+    "opciones": [
+      "1. Nusinersén.",
+      "2. Risdiplam.",
+      "3. Belimumab.",
+      "4. Onasemnogén abeparvovec."
+    ],
+    "respuesta": "3",
+    "comentario": "belimumab es el único de los 3 fármacos que no tiene indicación en esta patología. Está indicado en lupus eritematoso sistémico (LES) y en nefritis lúpica."
+  },
+  {
+    "número": "193",
+    "pregunta": "La insuficiencia renal influye en la distribución de los fármacos debido a una variación en la fijación proteica. ¿Cuál de los siguientes fármacos requieren modificación de la pauta posológica en insuficiencia renal?",
+    "opciones": [
+      "1. Ciclosporina.",
+      "2. Labetalol.",
+      "3. Lorazepam.",
+      "4. Metotrexato."
+    ],
+    "respuesta": "4",
+    "comentario": "el metotrexato se excreta en gran medida por medio de los riñones y, por lo tanto, se debe usar con precaución en pacientes con insuficiencia renal (evitar acumulación)."
+  },
+  {
+    "número": "194",
+    "pregunta": "¿Cuál de las siguientes manifestaciones clínicas NO se produce en la intoxicación por arsénico?",
+    "opciones": [
+      "1. Hipopigmentación palmo-plantar.",
+      "2. Estrías blancas en las uñas.",
+      "3. Perforación del tabique nasal.",
+      "4. Polineuropatía sensitivo-motora."
+    ],
+    "respuesta": "1",
+    "comentario": "la hipopigmentación palmo-plantar no es una manifestación clínica típica de la intoxicación por arsénico. Aunque la piel puede verse afectada en la intoxicación por arsénico, usualmente se presenta con hiperpigmentación, no hipopigmentación. Las estrías blancas en las uñas, la polineuropatía sensitivo-motora y la perforación del tabique nasal son manifestaciones clínicas más comunes en la intoxicación por arsénico."
+  },
+  {
+    "número": "195",
+    "pregunta": "¿Qué problema o problemas puede causar la deficiencia de aglutinante durante el proceso de compresión?",
+    "opciones": [
+      "1. Picking únicamente.",
+      "2. Picking y escasa dureza.",
+      "3. Capping (laminación) y escasa dureza.",
+      "4. Capping, picking y escasa dureza."
+    ],
+    "respuesta": "3",
+    "comentario": "la deficiencia de aglutinante puede generar dos problemas distintos: el capping ya que las capas no están suficientemente unidas y la falta de dureza. Por otra parte, el picking puede ser originado por deficiencia de lubrificante, no de aglutinante."
+  },
+  {
+    "número": "196",
+    "pregunta": "Cuando un aparato de análisis de muestras de sangre nos da el valor de índice sérico, este hace referencia a",
+    "opciones": [
+      "1. Un índice que mide el grado de anemia del paciente de forma precisa.",
+      "2. Un indicador de la calidad de la muestra, que nos informa de la validez de los resultados que podamos obtener.",
+      "3. Una medida de la celularidad del suero, que informa tanto de los hematíes presentes como de los leucocitos.",
+      "4. Un índice cuantitativo que calcula la cantidad de proteínas séricas presentes, si bien no hace distinciones entre proteínas α-1 y α-2."
+    ],
+    "respuesta": "2",
+    "comentario": "el índice sérico es un indicador de la calidad de la muestra de suero o plasma. Para cada muestra el sistema muestra y con el resto de resultados el sistema informático del laboratorio muestra al facultativo validador el índice HIL, el cual informa de la presencia de Hemoglobina, Ictericia y Lipemia en la muestra. Estas sustancias pueden interferir en el resultado de las magnitudes medidas (p.ej. la hemólisis aumenta falsamente el potasio y LDH por liberarse del interior de los hematíes). El analizador realiza una lectura espectrofotométrica a distintas longitudes de onda y muestra un resultado semicuantitativo (con cruces, p. ej. hemólisis +++)."
+  },
+  {
+    "número": "197",
+    "pregunta": "Los métodos homogéneos directos para la cuantificación del colesterol-HDL permiten determinar el colesterol-no-HDL. ¿Qué lipoproteínas engloba esta fracción lipoproteica?",
+    "opciones": [
+      "1. LDL.",
+      "2. IDL y LDL.",
+      "3. VLDL y lipoproteínas remanentes.",
+      "4. Quilomicrones, VLDL, IDL y LDL."
+    ],
+    "respuesta": "4",
+    "comentario": "el colesterol-no-HDL engloba todas las lipoproteínas que contienen colesterol, excepto las HDL, es decir, quilomicrones, VLDL, IDL y LDL. Estas lipoproteínas son las responsables de transportar los triglicéridos (quilomicrones, VLDL) y el colesterol (LDL) desde el hígado hasta los lugares donde se requieren para la síntesis de hormonas esteroides y la formación de las membranas celulares."
+  },
+  {
+    "número": "198",
+    "pregunta": "En un paciente con un diagnóstico de ictericia a causa de una anemia hemolítica, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+    "opciones": [
+      "1. Presentará una hiperbilirrubinemia a expensas de un aumento de la bilirrubina indirecta.",
+      "2. Es esperable que se produzca un incremento de bilirrubina en la orina.",
+      "3. Se producirá un descenso de la haptoglobina, y un aumento de la lactato deshidrogenasa.",
+      "4. Suelen presentar un índice de producción de reticulocitos mayor o igual a 2,5 veces el valor normal."
+    ],
+    "respuesta": "2",
+    "comentario": "en la anemia hemolítica, la destrucción de hematíes libera hemoglobina (à biliverdina à bilirrubina) aumentando la concentración de bilirrubina indirecta en sangre, LDH y potasio (presentes en el interior de los eritrocitos). La haptoglobina estará disminuida, ya esta proteína formará un complejo con los grupos hemo libres. En un intento por regenerar estos glóbulos rojos destruidos, la médula ósea (fábrica de células sanguíneas) liberará a sangre reticulocitos, célula anterior al hematíe maduro, detectándose reticulocitosis (> 2,5%)."
+  },
+  {
+    "número": "199",
+    "pregunta": "De qué factor NO depende la velocidad de filtración glomerular de un fármaco",
+    "opciones": [
+      "1. Concentración libre del fármaco en el plasma.",
+      "2. Disponibilidad de unión al receptor en el glomérulo renal.",
+      "3. Flujo de filtración glomerular.",
+      "4. Biodisponibilidad del fármaco."
+    ],
+    "respuesta": "2",
+    "comentario": "la velocidad de filtración glomerular de un fármaco dependerá del flujo de filtración glomerular y de la concentración libre del fármaco en el plasma."
+  },
+  {
+    "número": "200",
+    "pregunta": "¿En qué etapa del desarrollo del linfocito B hay coexpresión de IgM e IgD en su superficie celular?",
+    "opciones": [
+      "1. Célula pre-B.",
+      "2. Célula pro-B.",
+      "3. Célula B inmadura.",
+      "4. Célula B madura."
+    ],
+    "respuesta": "4",
+    "comentario": "el progenitor linfoide común da lugar a la célula pro-B, en la cual empieza el reordenamiento de gen que codifica inmunoglobulina. A continuación, la célula pro-B se convierte en pre-B al expresar una cadena pesada funcional y posteriormente las cadenas ligeras. Cuando se produce el correcto ensamblaje de las cadenas para formar una inmunoglobulina, la célula pre-B se convierte en célula B inmadura que expresa una IgM completa en su superficie. Finalmente, la célula B madura expresa IgD e IgM en su superficie."
+  },
+  {
+    "número": "201",
+    "pregunta": "¿Cuál de los siguientes alimentos tiende a acumular mayores concentraciones de cadmio, aumentando así el riesgo de intoxicación por este metal pesado?",
+    "opciones": [
+      "1. Frutas y verduras orgánicas.",
+      "2. Mariscos y pescados de aguas profundas.",
+      "3. Productos lácteos bajos en grasa.",
+      "4. Cereales y productos de grano integral."
+    ],
+    "respuesta": "1",
+    "comentario": "el cadmio es un metal pesado que se encuentra naturalmente en el suelo, pudiendo ser absorbido por las plantas y acumularse en sus tejidos. Las frutas y verduras orgánicas pueden estar en riesgo de acumular cadmio si se cultivan en suelos contaminados con este metal pesado o si están expuestas a fertilizantes o pesticidas que contienen cadmio. Las plantas absorben el cadmio del suelo a través de sus raíces y lo transportan a sus partes comestibles, como las hojas, los tallos y los frutos. Cuando las personas consumen frutas y verduras que contienen cadmio, parte de este metal pesado puede ser absorbido por el cuerpo humano. La acumulación continua de cadmio en el cuerpo, especialmente a través de la dieta, puede llevar a la intoxicación por cadmio. En este simulacro esta pregunta formará parte del examen, pues ha sido anulada la pregunta 39."
+  },
+  {
+    "número": "202",
+    "pregunta": "¿Cuál de las siguientes formas farmacéuticas es más propensa a la degradación química debido a su contenido de ingredientes sensibles a la luz?",
+    "opciones": [
+      "1. Soluciones orales.",
+      "2. Suspensiones.",
+      "3. Comprimidos.",
+      "4. Jarabes."
+    ],
+    "respuesta": "1",
+    "comentario": "debido a que las soluciones orales se encuentran disueltos los componentes, y sin presencia del alcohol (como en los elixires) o de tanta sacarosa (como en los jarabes), que actúan como conservantes, tienden a tener una mayor afectación por la luz y, en consecuencia, muchos de ellos se guardan en botes específicos para protegerla de esta. En este simulacro esta pregunta formará parte del examen, pues ha sido anulada la pregunta 40."
+  },
+  {
+    "número": "203",
+    "pregunta": "¿Qué interleucina estimula la producción de eosinófilos y qué células la producen?",
+    "opciones": [
+      "1. La IL-5 y la producen los linfocitos Th1.",
+      "2. La IL-4 y la producen los linfocitos Th2.",
+      "3. La IL-6 y la producen los linfocitos Th1.",
+      "4. La IL-5 y la producen los linfocitos Th2."
+    ],
+    "respuesta": "2",
+    "comentario": "los linfocitos Th-2 producen como principales citoquinas IL-4 e IL-5, una de las funciones de IL- 4 es la estimulación de los eosinófilos y el cambio de clase a IgE."
+  },
+  {
+    "número": "204",
+    "pregunta": "¿Qué tipo de muestra no es apta para estudio mediante espectroscopía infrarroja?",
+    "opciones": [
+      "1. Gaseosa.",
+      "2. Disolvente alcohólico.",
+      "3. Líquidos puros.",
+      "4. Sólidos."
+    ],
+    "respuesta": "2",
+    "comentario": "la espectroscopía infrarroja es una técnica muy versátil, que permite el estudio de distintos tipos de muestra: para las muestras gaseosas, y debido a la baja densidad de los gases, se utilizan cubetas con superficies reflectantes internas para aumentar las longitudes de camino óptico y conseguir así que el haz pase numerosas veces por la muestra antes de salir de la cubeta; disolventes como el agua y el etanol absorben REM intensamente y atacan a los materiales empleados para las cubetas de las muestras (haluros de metal alcalino); para analizar líquidos puros una gota de éste se dispone entre dos placas de sal de roca o pastillas pulidas de cloruro de sodio. Las dos placas se mantienen unidas por capilaridad y se colocan en la trayectoria del haz; la muestra sólida se mezcla con KBr y después se comprime con un troquel y a vacío en una prensa hidráulica. Se obtiene una pastilla transparente, que se coloca en el haz del instrumento para su análisis espectroscópico."
+  },
+  {
+    "número": "205",
+    "pregunta": "Ocurre tras una reacción metabólica de tipo I",
+    "opciones": [
+      "1. Glucuronidación.",
+      "2. Mercapturación.",
+      "3. Hidrólisis.",
+      "4. Quelación."
+    ],
+    "respuesta": "3",
+    "comentario": "hablan de la consecuencia de una reacción de tipo I, las cuales son oxidaciones, reducciones, hidratación e hidrólisis. Las de tipo II engloban sulfatación, glucuronidación, acetilación, conjugación con glutation (formación de mercapturatos) y aminoácidos y metilación. No ocurre generalmente en el metabolismo normal de fármacos el proceso de quelación."
+  },
+  {
+    "número": "206",
+    "pregunta": "¿Cuál de los siguientes microorganismos es acido alcohol resistente de manera parcial y es capaz de teñirse con la tinción de Ziehl-Neelsen?",
+    "opciones": [
+      "1. Tsukamurella spp.",
+      "2. Micrococcus spp.",
+      "3. Rothia spp.",
+      "4. Pseudomonas aeruginosa."
+    ],
+    "respuesta": "1",
+    "comentario": "recordemos que los microorganismos que son parcialmente acido alcohol resistentes y pueden dar positiva la tinción de Ziehl son Nocardia, Tsukamurella, Gordonia y Rhodococcus."
+  },
+  {
+    "número": "207",
+    "pregunta": "¿Cuál de los siguientes antibióticos no tiene eficacia en un Staphylococcus aureus resistente a meticilina (SARM)?",
+    "opciones": [
+      "1. Meropenem.",
+      "2. Daptomicina.",
+      "3. Linezolid.",
+      "4. Vancomicina."
+    ],
+    "respuesta": "1",
+    "comentario": "el mecanismo de resistencia a meticilina de S. aureus se asocia en general a la síntesis de una nueva PBP (PBP2a) con baja afinidad por la meticilina y el resto de los β -lactámicos. El determinante genético de esta proteína es de naturaleza cromosómica (gen mec)."
+  },
+  {
+    "número": "208",
+    "pregunta": "¿Cuál de los siguientes enunciados es FALSO?",
+    "opciones": [
+      "1. La filtración glomerular se produce por la diferencia de presiones en los capilares que irrigan la nefrona.",
+      "2. El proceso de filtración glomerular es un proceso pasivo y no saturable.",
+      "3. En el proceso de filtración glomerular se excreta tanto la fracción libre como la fracción unida a las proteínas plasmáticas.",
+      "4. Sigue una cinética de primer orden."
+    ],
+    "respuesta": "3",
+    "comentario": "se trata de un proceso que genera la excreción de la fracción libre del fármaco. Habrá que tener en cuenta el % de unión a las proteínas plasmáticas."
+  },
+  {
+    "número": "209",
+    "pregunta": "Los dextranos se usan en farmacología porque actúan como",
+    "opciones": [
+      "1. Potentes vasodilatadores.",
+      "2. Diuréticos de eficacia media.",
+      "3. Hipolipemiantes.",
+      "4. Expansores plasmáticos."
+    ],
+    "respuesta": "4",
+    "comentario": "el hidroxietil-almidón, dextranos 40 y 70 y gelatinas son moléculas de elevado peso molecular que ejercen el efecto coloidosmótico necesario para asegurar el volumen plasmático adecuado y así garantizar la perfusión tisular. Se utilizan para restituir temporalmente la volemia."
+  },
+  {
+    "número": "210",
+    "pregunta": "Señale la respuesta FALSA de entre las siguientes en relación con el concepto de gastritis",
+    "opciones": [
+      "1. Es un término que debe reservarse para definir la existencia de inflamación en la mucosa gástrica.",
+      "2. Existe un espectro de manifestaciones clínicas claramente definidas en relación con la existencia de gastritis.",
+      "3. Helicobacter pylori es una causa frecuente de gastritis.",
+      "4. Existe una escasa correlación entre los datos histológicos, los síntomas del paciente y los datos endoscópicos."
+    ],
+    "respuesta": "2",
+    "comentario": "la gastritis puede ser asintomática, cursar con dispepsia o debutar con hemorragia digestiva alta, por tanto, no existe un espectro de manifestaciones clínicas claramente definido, siendo su diagnóstico siempre histológico y nunca clínico. Podríamos ver que la opción 2 y la opción 4 son casi mutuamente excluyentes."
+  }
+]
